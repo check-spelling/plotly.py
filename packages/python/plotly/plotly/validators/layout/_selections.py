@@ -11,8 +11,8 @@ class SelectionsValidator(_plotly_utils.basevalidators.CompoundArrayValidator):
                 "data_docs",
                 """
             line
-                :class:`plotly.graph_objects.layout.selection.L
-                ine` instance or dict with compatible
+                :class:`plotly.graph_objects.layout.selection.
+                Line` instance or dict with compatible
                 properties
             name
                 When used in a template, named items are

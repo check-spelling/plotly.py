@@ -157,8 +157,9 @@ class Ohlc(_BaseTraceType):
             Supported dict properties:
 
                 line
-                    :class:`plotly.graph_objects.ohlc.decreasing.Li
-                    ne` instance or dict with compatible properties
+                    :class:`plotly.graph_objects.ohlc.decreasing.
+                    Line` instance or dict with compatible
+                    properties
 
         Returns
         -------
@@ -418,8 +419,9 @@ class Ohlc(_BaseTraceType):
             Supported dict properties:
 
                 line
-                    :class:`plotly.graph_objects.ohlc.increasing.Li
-                    ne` instance or dict with compatible properties
+                    :class:`plotly.graph_objects.ohlc.increasing.
+                    Line` instance or dict with compatible
+                    properties
 
         Returns
         -------

@@ -149,8 +149,9 @@ class ScatterpolarglValidator(_plotly_utils.basevalidators.CompoundValidator):
                 Sets the width (in px or fraction) of the
                 legend for this trace.
             line
-                :class:`plotly.graph_objects.scatterpolargl.Lin
-                e` instance or dict with compatible properties
+                :class:`plotly.graph_objects.scatterpolargl.
+                Line` instance or dict with compatible
+                properties
             marker
                 :class:`plotly.graph_objects.scatterpolargl.Mar
                 ker` instance or dict with compatible

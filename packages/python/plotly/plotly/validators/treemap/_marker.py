@@ -97,8 +97,9 @@ class MarkerValidator(_plotly_utils.basevalidators.CompoundValidator):
                 colors while the leaves are faded towards the
                 background color.
             line
-                :class:`plotly.graph_objects.treemap.marker.Lin
-                e` instance or dict with compatible properties
+                :class:`plotly.graph_objects.treemap.marker.
+                Line` instance or dict with compatible
+                properties
             pad
                 :class:`plotly.graph_objects.treemap.marker.Pad
                 ` instance or dict with compatible properties

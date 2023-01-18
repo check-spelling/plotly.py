@@ -1143,8 +1143,9 @@ class Scatter(_BaseTraceType):
                     Gradient` instance or dict with compatible
                     properties
                 line
-                    :class:`plotly.graph_objects.scatter.marker.Lin
-                    e` instance or dict with compatible properties
+                    :class:`plotly.graph_objects.scatter.marker.
+                    Line` instance or dict with compatible
+                    properties
                 maxdisplayed
                     Sets a maximum number of points to be drawn on
                     the graph. 0 corresponds to no limit.

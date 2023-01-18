@@ -628,8 +628,9 @@ class Barpolar(_BaseTraceType):
                     Sets the source reference on Chart Studio Cloud
                     for `color`.
                 line
-                    :class:`plotly.graph_objects.barpolar.marker.Li
-                    ne` instance or dict with compatible properties
+                    :class:`plotly.graph_objects.barpolar.marker.
+                    Line` instance or dict with compatible
+                    properties
                 opacity
                     Sets the opacity of the bars.
                 opacitysrc

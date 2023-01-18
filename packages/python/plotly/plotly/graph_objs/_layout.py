@@ -2458,8 +2458,9 @@ class Layout(_BaseLayoutType):
                     Specifies whether new shapes are drawn below or
                     above traces.
                 line
-                    :class:`plotly.graph_objects.layout.newshape.Li
-                    ne` instance or dict with compatible properties
+                    :class:`plotly.graph_objects.layout.newshape.
+                    Line` instance or dict with compatible
+                    properties
                 opacity
                     Sets the opacity of new shapes.
 
@@ -2869,8 +2870,8 @@ class Layout(_BaseLayoutType):
             Supported dict properties:
 
                 line
-                    :class:`plotly.graph_objects.layout.selection.L
-                    ine` instance or dict with compatible
+                    :class:`plotly.graph_objects.layout.selection.
+                    Line` instance or dict with compatible
                     properties
                 name
                     When used in a template, named items are

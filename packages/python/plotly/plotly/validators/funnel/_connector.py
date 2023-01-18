@@ -13,8 +13,8 @@ class ConnectorValidator(_plotly_utils.basevalidators.CompoundValidator):
             fillcolor
                 Sets the fill color.
             line
-                :class:`plotly.graph_objects.funnel.connector.L
-                ine` instance or dict with compatible
+                :class:`plotly.graph_objects.funnel.connector.
+                Line` instance or dict with compatible
                 properties
             visible
                 Determines if connector regions and lines are

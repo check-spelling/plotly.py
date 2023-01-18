@@ -172,8 +172,9 @@ class ScatterternaryValidator(_plotly_utils.basevalidators.CompoundValidator):
                 Sets the width (in px or fraction) of the
                 legend for this trace.
             line
-                :class:`plotly.graph_objects.scatterternary.Lin
-                e` instance or dict with compatible properties
+                :class:`plotly.graph_objects.scatterternary.
+                Line` instance or dict with compatible
+                properties
             marker
                 :class:`plotly.graph_objects.scatterternary.Mar
                 ker` instance or dict with compatible

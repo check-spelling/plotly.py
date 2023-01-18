@@ -84,8 +84,9 @@ class MarkerValidator(_plotly_utils.basevalidators.CompoundValidator):
                 Sets the source reference on Chart Studio Cloud
                 for `colors`.
             line
-                :class:`plotly.graph_objects.sunburst.marker.Li
-                ne` instance or dict with compatible properties
+                :class:`plotly.graph_objects.sunburst.marker.
+                Line` instance or dict with compatible
+                properties
             reversescale
                 Reverses the color mapping if true. Has an
                 effect only if colors is set to a numerical

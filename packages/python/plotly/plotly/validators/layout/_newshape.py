@@ -33,8 +33,9 @@ class NewshapeValidator(_plotly_utils.basevalidators.CompoundValidator):
                 Specifies whether new shapes are drawn below or
                 above traces.
             line
-                :class:`plotly.graph_objects.layout.newshape.Li
-                ne` instance or dict with compatible properties
+                :class:`plotly.graph_objects.layout.newshape.
+                Line` instance or dict with compatible
+                properties
             opacity
                 Sets the opacity of new shapes.
 """,

@@ -933,8 +933,8 @@ class Scatter3d(_BaseTraceType):
                     Sets the source reference on Chart Studio Cloud
                     for `color`.
                 line
-                    :class:`plotly.graph_objects.scatter3d.marker.L
-                    ine` instance or dict with compatible
+                    :class:`plotly.graph_objects.scatter3d.marker.
+                    Line` instance or dict with compatible
                     properties
                 opacity
                     Sets the marker opacity. Note that the marker
