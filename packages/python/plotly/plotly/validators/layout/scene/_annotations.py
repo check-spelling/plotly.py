@@ -63,8 +63,8 @@ class AnnotationsValidator(_plotly_utils.basevalidators.CompoundArrayValidator):
                 (default) lets the text set the box height.
                 Taller text will be clipped.
             hoverlabel
-                :class:`plotly.graph_objects.layout.scene.annot
-                ation.Hoverlabel` instance or dict with
+                :class:`plotly.graph_objects.layout.scene.
+                annotation.Hoverlabel` instance or dict with
                 compatible properties
             hovertext
                 Sets text to appear when hovering over this

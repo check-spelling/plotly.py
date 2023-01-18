@@ -206,8 +206,8 @@ class Hoverlabel(_BaseLayoutHierarchyType):
         ----------
         arg
             dict of properties compatible with this constructor or
-            an instance of :class:`plotly.graph_objs.layout.scene.a
-            nnotation.Hoverlabel`
+            an instance of :class:`plotly.graph_objs.layout.scene.
+            annotation.Hoverlabel`
         bgcolor
             Sets the background color of the hover label. By
             default uses the annotation's `bgcolor` made opaque, or
