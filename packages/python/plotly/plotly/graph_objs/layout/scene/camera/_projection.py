@@ -51,8 +51,8 @@ class Projection(_BaseLayoutHierarchyType):
         ----------
         arg
             dict of properties compatible with this constructor or
-            an instance of :class:`plotly.graph_objs.layout.scene.c
-            amera.Projection`
+            an instance of :class:`plotly.graph_objs.layout.scene.
+            camera.Projection`
         type
             Sets the projection type. The projection type could be
             either "perspective" or "orthographic". The default is
