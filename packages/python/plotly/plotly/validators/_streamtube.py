@@ -160,8 +160,8 @@ class StreamtubeValidator(_plotly_utils.basevalidators.CompoundValidator):
                 Lighting` instance or dict with compatible
                 properties
             lightposition
-                :class:`plotly.graph_objects.streamtube.Lightpo
-                sition` instance or dict with compatible
+                :class:`plotly.graph_objects.streamtube.
+                Lightposition` instance or dict with compatible
                 properties
             maxdisplayed
                 The maximum number of displayed segments in a

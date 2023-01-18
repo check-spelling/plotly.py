@@ -175,8 +175,8 @@ class IsosurfaceValidator(_plotly_utils.basevalidators.CompoundValidator):
                 Lighting` instance or dict with compatible
                 properties
             lightposition
-                :class:`plotly.graph_objects.isosurface.Lightpo
-                sition` instance or dict with compatible
+                :class:`plotly.graph_objects.isosurface.
+                Lightposition` instance or dict with compatible
                 properties
             meta
                 Assigns extra meta information associated with

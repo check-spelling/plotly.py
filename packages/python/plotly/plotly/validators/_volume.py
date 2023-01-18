@@ -173,8 +173,9 @@ class VolumeValidator(_plotly_utils.basevalidators.CompoundValidator):
                 :class:`plotly.graph_objects.volume.Lighting`
                 instance or dict with compatible properties
             lightposition
-                :class:`plotly.graph_objects.volume.Lightpositi
-                on` instance or dict with compatible properties
+                :class:`plotly.graph_objects.volume.
+                Lightposition` instance or dict with
+                compatible properties
             meta
                 Assigns extra meta information associated with
                 this trace that can be used in various text
