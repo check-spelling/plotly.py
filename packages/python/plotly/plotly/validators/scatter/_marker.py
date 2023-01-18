@@ -97,8 +97,8 @@ class MarkerValidator(_plotly_utils.basevalidators.CompoundValidator):
                 Sets the source reference on Chart Studio Cloud
                 for `color`.
             gradient
-                :class:`plotly.graph_objects.scatter.marker.Gra
-                dient` instance or dict with compatible
+                :class:`plotly.graph_objects.scatter.marker.
+                Gradient` instance or dict with compatible
                 properties
             line
                 :class:`plotly.graph_objects.scatter.marker.Lin

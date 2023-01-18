@@ -1286,8 +1286,8 @@ class Marker(_BaseTraceHierarchyType):
             Sets the source reference on Chart Studio Cloud for
             `color`.
         gradient
-            :class:`plotly.graph_objects.scattersmith.marker.Gradie
-            nt` instance or dict with compatible properties
+            :class:`plotly.graph_objects.scattersmith.marker.
+            Gradient` instance or dict with compatible properties
         line
             :class:`plotly.graph_objects.scattersmith.marker.Line`
             instance or dict with compatible properties
@@ -1466,8 +1466,8 @@ class Marker(_BaseTraceHierarchyType):
             Sets the source reference on Chart Studio Cloud for
             `color`.
         gradient
-            :class:`plotly.graph_objects.scattersmith.marker.Gradie
-            nt` instance or dict with compatible properties
+            :class:`plotly.graph_objects.scattersmith.marker.
+            Gradient` instance or dict with compatible properties
         line
             :class:`plotly.graph_objects.scattersmith.marker.Line`
             instance or dict with compatible properties
