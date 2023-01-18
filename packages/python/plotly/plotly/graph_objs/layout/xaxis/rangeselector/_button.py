@@ -256,8 +256,8 @@ class Button(_BaseLayoutHierarchyType):
         ----------
         arg
             dict of properties compatible with this constructor or
-            an instance of :class:`plotly.graph_objs.layout.xaxis.r
-            angeselector.Button`
+            an instance of :class:`plotly.graph_objs.layout.xaxis.
+            rangeselector.Button`
         count
             Sets the number of steps to take to update the range.
             Use with `step` to specify the update interval.

@@ -151,8 +151,8 @@ class Font(_BaseLayoutHierarchyType):
         ----------
         arg
             dict of properties compatible with this constructor or
-            an instance of :class:`plotly.graph_objs.layout.xaxis.r
-            angeselector.Font`
+            an instance of :class:`plotly.graph_objs.layout.xaxis.
+            rangeselector.Font`
         color
 
         family

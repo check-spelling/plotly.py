@@ -4385,8 +4385,8 @@ class Layout(_BaseLayoutType):
                     negative, regardless of the input data. Applies
                     only to linear axes.
                 rangeselector
-                    :class:`plotly.graph_objects.layout.xaxis.Range
-                    selector` instance or dict with compatible
+                    :class:`plotly.graph_objects.layout.xaxis.
+                    Rangeselector` instance or dict with compatible
                     properties
                 rangeslider
                     :class:`plotly.graph_objects.layout.xaxis.Range
