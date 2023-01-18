@@ -14,7 +14,7 @@ class TestSession(PlotlyTestCase):
 
     def test_update_session_plot_options_invalid_sharing_argument(self):
 
-        # Return PlotlyError when sharing arguement is not
+        # Return PlotlyError when sharing argument is not
         # 'public', 'private' or 'secret'
 
         kwargs = {"sharing": "priva"}
