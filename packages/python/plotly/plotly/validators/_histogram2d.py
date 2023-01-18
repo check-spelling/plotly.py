@@ -45,8 +45,9 @@ class Histogram2DValidator(_plotly_utils.basevalidators.CompoundValidator):
                 color scales can be linked to the same color
                 axis.
             colorbar
-                :class:`plotly.graph_objects.histogram2d.ColorB
-                ar` instance or dict with compatible properties
+                :class:`plotly.graph_objects.histogram2d.
+                ColorBar` instance or dict with compatible
+                properties
             colorscale
                 Sets the colorscale. The colorscale must be an
                 array containing arrays mapping a normalized

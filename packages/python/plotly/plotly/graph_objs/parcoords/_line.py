@@ -450,9 +450,9 @@ class Line(_BaseTraceHierarchyType):
                 tickwidth
                     Sets the tick width (in px).
                 title
-                    :class:`plotly.graph_objects.parcoords.line.col
-                    orbar.Title` instance or dict with compatible
-                    properties
+                    :class:`plotly.graph_objects.parcoords.line.
+                    colorbar.Title` instance or dict with
+                    compatible properties
                 titlefont
                     Deprecated: Please use
                     parcoords.line.colorbar.title.font instead.

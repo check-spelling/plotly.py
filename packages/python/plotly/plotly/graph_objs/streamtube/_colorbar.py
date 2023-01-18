@@ -1533,9 +1533,9 @@ class ColorBar(_BaseTraceHierarchyType):
             09:15:23.456* with tickformat "%H~%M~%S.%2f" would
             display "09~15~23.46"
         tickformatstops
-            A tuple of :class:`plotly.graph_objects.streamtube.colo
-            rbar.Tickformatstop` instances or dicts with compatible
-            properties
+            A tuple of :class:`plotly.graph_objects.streamtube.
+            colorbar.Tickformatstop` instances or dicts with
+            compatible properties
         tickformatstopdefaults
             When used in a template (as layout.template.data.stream
             tube.colorbar.tickformatstopdefaults), sets the default
@@ -1824,9 +1824,9 @@ class ColorBar(_BaseTraceHierarchyType):
             09:15:23.456* with tickformat "%H~%M~%S.%2f" would
             display "09~15~23.46"
         tickformatstops
-            A tuple of :class:`plotly.graph_objects.streamtube.colo
-            rbar.Tickformatstop` instances or dicts with compatible
-            properties
+            A tuple of :class:`plotly.graph_objects.streamtube.
+            colorbar.Tickformatstop` instances or dicts with
+            compatible properties
         tickformatstopdefaults
             When used in a template (as layout.template.data.stream
             tube.colorbar.tickformatstopdefaults), sets the default

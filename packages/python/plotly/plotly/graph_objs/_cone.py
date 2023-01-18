@@ -382,9 +382,9 @@ class Cone(_BaseTraceType):
                     tickformat "%H~%M~%S.%2f" would display
                     "09~15~23.46"
                 tickformatstops
-                    A tuple of :class:`plotly.graph_objects.cone.co
-                    lorbar.Tickformatstop` instances or dicts with
-                    compatible properties
+                    A tuple of :class:`plotly.graph_objects.cone.
+                    colorbar.Tickformatstop` instances or dicts
+                    with compatible properties
                 tickformatstopdefaults
                     When used in a template (as layout.template.dat
                     a.cone.colorbar.tickformatstopdefaults), sets

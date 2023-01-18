@@ -151,8 +151,8 @@ class Tickfont(_BaseTraceHierarchyType):
         ----------
         arg
             dict of properties compatible with this constructor or
-            an instance of :class:`plotly.graph_objs.histogram2d.co
-            lorbar.Tickfont`
+            an instance of :class:`plotly.graph_objs.histogram2d.
+            colorbar.Tickfont`
         color
 
         family

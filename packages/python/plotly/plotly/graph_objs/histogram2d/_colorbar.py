@@ -1534,8 +1534,8 @@ class ColorBar(_BaseTraceHierarchyType):
             09:15:23.456* with tickformat "%H~%M~%S.%2f" would
             display "09~15~23.46"
         tickformatstops
-            A tuple of :class:`plotly.graph_objects.histogram2d.col
-            orbar.Tickformatstop` instances or dicts with
+            A tuple of :class:`plotly.graph_objects.histogram2d.
+            colorbar.Tickformatstop` instances or dicts with
             compatible properties
         tickformatstopdefaults
             When used in a template (as layout.template.data.histog
@@ -1825,8 +1825,8 @@ class ColorBar(_BaseTraceHierarchyType):
             09:15:23.456* with tickformat "%H~%M~%S.%2f" would
             display "09~15~23.46"
         tickformatstops
-            A tuple of :class:`plotly.graph_objects.histogram2d.col
-            orbar.Tickformatstop` instances or dicts with
+            A tuple of :class:`plotly.graph_objects.histogram2d.
+            colorbar.Tickformatstop` instances or dicts with
             compatible properties
         tickformatstopdefaults
             When used in a template (as layout.template.data.histog

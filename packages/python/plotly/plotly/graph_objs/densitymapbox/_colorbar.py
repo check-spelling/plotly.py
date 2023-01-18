@@ -1535,8 +1535,8 @@ class ColorBar(_BaseTraceHierarchyType):
             09:15:23.456* with tickformat "%H~%M~%S.%2f" would
             display "09~15~23.46"
         tickformatstops
-            A tuple of :class:`plotly.graph_objects.densitymapbox.c
-            olorbar.Tickformatstop` instances or dicts with
+            A tuple of :class:`plotly.graph_objects.densitymapbox.
+            colorbar.Tickformatstop` instances or dicts with
             compatible properties
         tickformatstopdefaults
             When used in a template (as layout.template.data.densit

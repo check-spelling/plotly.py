@@ -1266,8 +1266,8 @@ class Marker(_BaseTraceHierarchyType):
             `layout.coloraxis2`, etc. Note that multiple color
             scales can be linked to the same color axis.
         colorbar
-            :class:`plotly.graph_objects.scatterpolar.marker.ColorB
-            ar` instance or dict with compatible properties
+            :class:`plotly.graph_objects.scatterpolar.marker.
+            ColorBar` instance or dict with compatible properties
         colorscale
             Sets the colorscale. Has an effect only if in
             `marker.color` is set to a numerical array. The
@@ -1446,8 +1446,8 @@ class Marker(_BaseTraceHierarchyType):
             `layout.coloraxis2`, etc. Note that multiple color
             scales can be linked to the same color axis.
         colorbar
-            :class:`plotly.graph_objects.scatterpolar.marker.ColorB
-            ar` instance or dict with compatible properties
+            :class:`plotly.graph_objects.scatterpolar.marker.
+            ColorBar` instance or dict with compatible properties
         colorscale
             Sets the colorscale. Has an effect only if in
             `marker.color` is set to a numerical array. The

@@ -460,9 +460,9 @@ class Marker(_BaseTraceHierarchyType):
                 tickwidth
                     Sets the tick width (in px).
                 title
-                    :class:`plotly.graph_objects.scatter3d.marker.c
-                    olorbar.Title` instance or dict with compatible
-                    properties
+                    :class:`plotly.graph_objects.scatter3d.marker.
+                    colorbar.Title` instance or dict with
+                    compatible properties
                 titlefont
                     Deprecated: Please use
                     scatter3d.marker.colorbar.title.font instead.

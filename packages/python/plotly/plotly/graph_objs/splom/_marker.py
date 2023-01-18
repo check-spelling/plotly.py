@@ -505,9 +505,9 @@ class Marker(_BaseTraceHierarchyType):
                 tickwidth
                     Sets the tick width (in px).
                 title
-                    :class:`plotly.graph_objects.splom.marker.color
-                    bar.Title` instance or dict with compatible
-                    properties
+                    :class:`plotly.graph_objects.splom.marker.
+                    colorbar.Title` instance or dict with
+                    compatible properties
                 titlefont
                     Deprecated: Please use
                     splom.marker.colorbar.title.font instead. Sets

@@ -212,9 +212,9 @@ class ColorbarValidator(_plotly_utils.basevalidators.CompoundValidator):
             tickwidth
                 Sets the tick width (in px).
             title
-                :class:`plotly.graph_objects.contourcarpet.colo
-                rbar.Title` instance or dict with compatible
-                properties
+                :class:`plotly.graph_objects.contourcarpet.
+                colorbar.Title` instance or dict with
+                compatible properties
             titlefont
                 Deprecated: Please use
                 contourcarpet.colorbar.title.font instead. Sets

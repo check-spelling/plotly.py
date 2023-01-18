@@ -187,8 +187,8 @@ class Tickformatstop(_BaseTraceHierarchyType):
         ----------
         arg
             dict of properties compatible with this constructor or
-            an instance of :class:`plotly.graph_objs.histogram2d.co
-            lorbar.Tickformatstop`
+            an instance of :class:`plotly.graph_objs.histogram2d.
+            colorbar.Tickformatstop`
         dtickrange
             range [*min*, *max*], where "min", "max" - dtick values
             which describe some zoom level, it is possible to omit

@@ -1599,8 +1599,9 @@ class ColorBar(_BaseTraceHierarchyType):
         tickwidth
             Sets the tick width (in px).
         title
-            :class:`plotly.graph_objects.scatterternary.marker.colo
-            rbar.Title` instance or dict with compatible properties
+            :class:`plotly.graph_objects.scatterternary.marker.
+            colorbar.Title` instance or dict with compatible
+            properties
         titlefont
             Deprecated: Please use
             scatterternary.marker.colorbar.title.font instead. Sets
@@ -1892,8 +1893,9 @@ class ColorBar(_BaseTraceHierarchyType):
         tickwidth
             Sets the tick width (in px).
         title
-            :class:`plotly.graph_objects.scatterternary.marker.colo
-            rbar.Title` instance or dict with compatible properties
+            :class:`plotly.graph_objects.scatterternary.marker.
+            colorbar.Title` instance or dict with compatible
+            properties
         titlefont
             Deprecated: Please use
             scatterternary.marker.colorbar.title.font instead. Sets

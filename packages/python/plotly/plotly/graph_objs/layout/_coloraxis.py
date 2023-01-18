@@ -350,9 +350,9 @@ class Coloraxis(_BaseLayoutHierarchyType):
                 tickwidth
                     Sets the tick width (in px).
                 title
-                    :class:`plotly.graph_objects.layout.coloraxis.c
-                    olorbar.Title` instance or dict with compatible
-                    properties
+                    :class:`plotly.graph_objects.layout.coloraxis.
+                    colorbar.Title` instance or dict with
+                    compatible properties
                 titlefont
                     Deprecated: Please use
                     layout.coloraxis.colorbar.title.font instead.
