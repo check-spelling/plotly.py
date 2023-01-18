@@ -21,8 +21,9 @@ class TernaryValidator(_plotly_utils.basevalidators.CompoundValidator):
             bgcolor
                 Set the background color of the subplot
             caxis
-                :class:`plotly.graph_objects.layout.ternary.Cax
-                is` instance or dict with compatible properties
+                :class:`plotly.graph_objects.layout.ternary.
+                Caxis` instance or dict with compatible
+                properties
             domain
                 :class:`plotly.graph_objects.layout.ternary.Dom
                 ain` instance or dict with compatible
