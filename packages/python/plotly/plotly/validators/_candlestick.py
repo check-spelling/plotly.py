@@ -60,8 +60,8 @@ class CandlestickValidator(_plotly_utils.basevalidators.CompoundValidator):
                 Sets the source reference on Chart Studio Cloud
                 for `ids`.
             increasing
-                :class:`plotly.graph_objects.candlestick.Increa
-                sing` instance or dict with compatible
+                :class:`plotly.graph_objects.candlestick.
+                Increasing` instance or dict with compatible
                 properties
             legendgroup
                 Sets the legend group for this trace. Traces

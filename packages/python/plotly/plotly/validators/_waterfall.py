@@ -119,8 +119,9 @@ class WaterfallValidator(_plotly_utils.basevalidators.CompoundValidator):
                 Sets the source reference on Chart Studio Cloud
                 for `ids`.
             increasing
-                :class:`plotly.graph_objects.waterfall.Increasi
-                ng` instance or dict with compatible properties
+                :class:`plotly.graph_objects.waterfall.
+                Increasing` instance or dict with compatible
+                properties
             insidetextanchor
                 Determines if texts are kept at center or
                 start/end points in `textposition` "inside"

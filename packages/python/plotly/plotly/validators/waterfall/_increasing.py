@@ -11,9 +11,9 @@ class IncreasingValidator(_plotly_utils.basevalidators.CompoundValidator):
                 "data_docs",
                 """
             marker
-                :class:`plotly.graph_objects.waterfall.increasi
-                ng.Marker` instance or dict with compatible
-                properties
+                :class:`plotly.graph_objects.waterfall.
+                increasing.Marker` instance or dict with
+                compatible properties
 """,
             ),
             **kwargs,

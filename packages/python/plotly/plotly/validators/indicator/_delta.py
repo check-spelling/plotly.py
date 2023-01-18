@@ -17,8 +17,8 @@ class DeltaValidator(_plotly_utils.basevalidators.CompoundValidator):
             font
                 Set the font used to display the delta
             increasing
-                :class:`plotly.graph_objects.indicator.delta.In
-                creasing` instance or dict with compatible
+                :class:`plotly.graph_objects.indicator.delta.
+                Increasing` instance or dict with compatible
                 properties
             position
                 Sets the position of delta with respect to the

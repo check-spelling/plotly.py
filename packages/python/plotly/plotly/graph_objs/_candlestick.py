@@ -429,9 +429,9 @@ class Candlestick(_BaseTraceType):
                     color, or marker line color, whichever is
                     available.
                 line
-                    :class:`plotly.graph_objects.candlestick.increa
-                    sing.Line` instance or dict with compatible
-                    properties
+                    :class:`plotly.graph_objects.candlestick.
+                    increasing.Line` instance or dict with
+                    compatible properties
 
         Returns
         -------
