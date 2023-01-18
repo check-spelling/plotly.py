@@ -1244,8 +1244,8 @@ class Bar(_BaseTraceType):
                     :class:`plotly.graph_objects.bar.selected.Marke
                     r` instance or dict with compatible properties
                 textfont
-                    :class:`plotly.graph_objects.bar.selected.Textf
-                    ont` instance or dict with compatible
+                    :class:`plotly.graph_objects.bar.selected.
+                    Textfont` instance or dict with compatible
                     properties
 
         Returns
@@ -1642,8 +1642,8 @@ class Bar(_BaseTraceType):
                     Marker` instance or dict with compatible
                     properties
                 textfont
-                    :class:`plotly.graph_objects.bar.unselected.Tex
-                    tfont` instance or dict with compatible
+                    :class:`plotly.graph_objects.bar.unselected.
+                    Textfont` instance or dict with compatible
                     properties
 
         Returns

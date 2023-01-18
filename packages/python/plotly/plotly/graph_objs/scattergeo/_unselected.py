@@ -79,8 +79,8 @@ class Unselected(_BaseTraceHierarchyType):
             :class:`plotly.graph_objects.scattergeo.unselected.
             Marker` instance or dict with compatible properties
         textfont
-            :class:`plotly.graph_objects.scattergeo.unselected.Text
-            font` instance or dict with compatible properties
+            :class:`plotly.graph_objects.scattergeo.unselected.
+            Textfont` instance or dict with compatible properties
         """
 
     def __init__(self, arg=None, marker=None, textfont=None, **kwargs):
@@ -97,8 +97,8 @@ class Unselected(_BaseTraceHierarchyType):
             :class:`plotly.graph_objects.scattergeo.unselected.
             Marker` instance or dict with compatible properties
         textfont
-            :class:`plotly.graph_objects.scattergeo.unselected.Text
-            font` instance or dict with compatible properties
+            :class:`plotly.graph_objects.scattergeo.unselected.
+            Textfont` instance or dict with compatible properties
 
         Returns
         -------

@@ -1399,8 +1399,8 @@ class Scatter(_BaseTraceType):
                     Marker` instance or dict with compatible
                     properties
                 textfont
-                    :class:`plotly.graph_objects.scatter.selected.T
-                    extfont` instance or dict with compatible
+                    :class:`plotly.graph_objects.scatter.selected.
+                    Textfont` instance or dict with compatible
                     properties
 
         Returns

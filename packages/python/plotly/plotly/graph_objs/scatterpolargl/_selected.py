@@ -75,8 +75,8 @@ class Selected(_BaseTraceHierarchyType):
             :class:`plotly.graph_objects.scatterpolargl.selected.
             Marker` instance or dict with compatible properties
         textfont
-            :class:`plotly.graph_objects.scatterpolargl.selected.Te
-            xtfont` instance or dict with compatible properties
+            :class:`plotly.graph_objects.scatterpolargl.selected.
+            Textfont` instance or dict with compatible properties
         """
 
     def __init__(self, arg=None, marker=None, textfont=None, **kwargs):
@@ -93,8 +93,8 @@ class Selected(_BaseTraceHierarchyType):
             :class:`plotly.graph_objects.scatterpolargl.selected.
             Marker` instance or dict with compatible properties
         textfont
-            :class:`plotly.graph_objects.scatterpolargl.selected.Te
-            xtfont` instance or dict with compatible properties
+            :class:`plotly.graph_objects.scatterpolargl.selected.
+            Textfont` instance or dict with compatible properties
 
         Returns
         -------

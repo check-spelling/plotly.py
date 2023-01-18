@@ -15,8 +15,8 @@ class UnselectedValidator(_plotly_utils.basevalidators.CompoundValidator):
                 Marker` instance or dict with compatible
                 properties
             textfont
-                :class:`plotly.graph_objects.bar.unselected.Tex
-                tfont` instance or dict with compatible
+                :class:`plotly.graph_objects.bar.unselected.
+                Textfont` instance or dict with compatible
                 properties
 """,
             ),
