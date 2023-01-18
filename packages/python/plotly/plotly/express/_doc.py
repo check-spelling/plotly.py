@@ -551,7 +551,7 @@ docs = dict(
     ],
     featureidkey=[
         "str (default: `'id'`)",
-        "Path to field in GeoJSON feature object with which to match the values passed in to `locations`."
+        "Path to field in GeoJSON feature object with which to match the values passed into `locations`."
         "The most common alternative to the default is of the form `'properties.<key>`.",
     ],
     cumulative=[

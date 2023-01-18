@@ -188,7 +188,7 @@ def axis_spanning_shape_annotation(annotation, shape_type, shape_args, kwargs):
 
     Returns an annotation populated with fields based on the
     annotation_position, annotation_ prefixed kwargs or the original annotation
-    passed in to this function.
+    passed into this function.
     """
     # set properties based on annotation_ prefixed kwargs
     prefix = "annotation_"
