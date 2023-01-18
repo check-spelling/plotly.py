@@ -387,7 +387,7 @@ class TestSelectForEachUpdateSubplots(TestCase):
                 orig_obj = copy.deepcopy(fig_orig.layout[k])
                 new_obj = fig.layout[k]
                 if k in expected_keys:
-                    # Make sure sure there is an initial difference
+                    # Make sure there is an initial difference
                     self.assertNotEqual(orig_obj, new_obj)
                     orig_obj.update(patch, **kwargs)
 
