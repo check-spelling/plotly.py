@@ -347,8 +347,8 @@ class Heatmap(_BaseTraceType):
                 tickwidth
                     Sets the tick width (in px).
                 title
-                    :class:`plotly.graph_objects.heatmap.colorbar.T
-                    itle` instance or dict with compatible
+                    :class:`plotly.graph_objects.heatmap.colorbar.
+                    Title` instance or dict with compatible
                     properties
                 titlefont
                     Deprecated: Please use

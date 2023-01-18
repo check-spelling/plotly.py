@@ -1598,8 +1598,8 @@ class ColorBar(_BaseTraceHierarchyType):
         tickwidth
             Sets the tick width (in px).
         title
-            :class:`plotly.graph_objects.sunburst.marker.colorbar.T
-            itle` instance or dict with compatible properties
+            :class:`plotly.graph_objects.sunburst.marker.colorbar.
+            Title` instance or dict with compatible properties
         titlefont
             Deprecated: Please use
             sunburst.marker.colorbar.title.font instead. Sets this
@@ -1889,8 +1889,8 @@ class ColorBar(_BaseTraceHierarchyType):
         tickwidth
             Sets the tick width (in px).
         title
-            :class:`plotly.graph_objects.sunburst.marker.colorbar.T
-            itle` instance or dict with compatible properties
+            :class:`plotly.graph_objects.sunburst.marker.colorbar.
+            Title` instance or dict with compatible properties
         titlefont
             Deprecated: Please use
             sunburst.marker.colorbar.title.font instead. Sets this

@@ -458,8 +458,8 @@ class Volume(_BaseTraceType):
                 tickwidth
                     Sets the tick width (in px).
                 title
-                    :class:`plotly.graph_objects.volume.colorbar.Ti
-                    tle` instance or dict with compatible
+                    :class:`plotly.graph_objects.volume.colorbar.
+                    Title` instance or dict with compatible
                     properties
                 titlefont
                     Deprecated: Please use

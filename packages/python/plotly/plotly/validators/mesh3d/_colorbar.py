@@ -211,8 +211,8 @@ class ColorbarValidator(_plotly_utils.basevalidators.CompoundValidator):
             tickwidth
                 Sets the tick width (in px).
             title
-                :class:`plotly.graph_objects.mesh3d.colorbar.Ti
-                tle` instance or dict with compatible
+                :class:`plotly.graph_objects.mesh3d.colorbar.
+                Title` instance or dict with compatible
                 properties
             titlefont
                 Deprecated: Please use

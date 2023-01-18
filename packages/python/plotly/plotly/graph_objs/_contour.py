@@ -372,8 +372,8 @@ class Contour(_BaseTraceType):
                 tickwidth
                     Sets the tick width (in px).
                 title
-                    :class:`plotly.graph_objects.contour.colorbar.T
-                    itle` instance or dict with compatible
+                    :class:`plotly.graph_objects.contour.colorbar.
+                    Title` instance or dict with compatible
                     properties
                 titlefont
                     Deprecated: Please use
