@@ -41,8 +41,9 @@ class WaterfallValidator(_plotly_utils.basevalidators.CompoundValidator):
                 Sets the source reference on Chart Studio Cloud
                 for `customdata`.
             decreasing
-                :class:`plotly.graph_objects.waterfall.Decreasi
-                ng` instance or dict with compatible properties
+                :class:`plotly.graph_objects.waterfall.
+                Decreasing` instance or dict with compatible
+                properties
             dx
                 Sets the x coordinate step. See `x0` for more
                 info.

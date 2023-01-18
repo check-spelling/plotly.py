@@ -115,8 +115,8 @@ class Indicator(_BaseTraceType):
             Supported dict properties:
 
                 decreasing
-                    :class:`plotly.graph_objects.indicator.delta.De
-                    creasing` instance or dict with compatible
+                    :class:`plotly.graph_objects.indicator.delta.
+                    Decreasing` instance or dict with compatible
                     properties
                 font
                     Set the font used to display the delta

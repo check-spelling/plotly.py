@@ -261,9 +261,9 @@ class Waterfall(_BaseTraceType):
             Supported dict properties:
 
                 marker
-                    :class:`plotly.graph_objects.waterfall.decreasi
-                    ng.Marker` instance or dict with compatible
-                    properties
+                    :class:`plotly.graph_objects.waterfall.
+                    decreasing.Marker` instance or dict with
+                    compatible properties
 
         Returns
         -------

@@ -16,9 +16,9 @@ class DecreasingValidator(_plotly_utils.basevalidators.CompoundValidator):
                 color, or marker line color, whichever is
                 available.
             line
-                :class:`plotly.graph_objects.candlestick.decrea
-                sing.Line` instance or dict with compatible
-                properties
+                :class:`plotly.graph_objects.candlestick.
+                decreasing.Line` instance or dict with
+                compatible properties
 """,
             ),
             **kwargs,
