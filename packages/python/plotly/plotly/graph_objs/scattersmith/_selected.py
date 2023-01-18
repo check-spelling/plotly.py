@@ -72,8 +72,8 @@ class Selected(_BaseTraceHierarchyType):
     def _prop_descriptions(self):
         return """\
         marker
-            :class:`plotly.graph_objects.scattersmith.selected.Mark
-            er` instance or dict with compatible properties
+            :class:`plotly.graph_objects.scattersmith.selected.
+            Marker` instance or dict with compatible properties
         textfont
             :class:`plotly.graph_objects.scattersmith.selected.Text
             font` instance or dict with compatible properties
@@ -90,8 +90,8 @@ class Selected(_BaseTraceHierarchyType):
             an instance of
             :class:`plotly.graph_objs.scattersmith.Selected`
         marker
-            :class:`plotly.graph_objects.scattersmith.selected.Mark
-            er` instance or dict with compatible properties
+            :class:`plotly.graph_objects.scattersmith.selected.
+            Marker` instance or dict with compatible properties
         textfont
             :class:`plotly.graph_objects.scattersmith.selected.Text
             font` instance or dict with compatible properties

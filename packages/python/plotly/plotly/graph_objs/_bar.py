@@ -1638,8 +1638,8 @@ class Bar(_BaseTraceType):
             Supported dict properties:
 
                 marker
-                    :class:`plotly.graph_objects.bar.unselected.Mar
-                    ker` instance or dict with compatible
+                    :class:`plotly.graph_objects.bar.unselected.
+                    Marker` instance or dict with compatible
                     properties
                 textfont
                     :class:`plotly.graph_objects.bar.unselected.Tex

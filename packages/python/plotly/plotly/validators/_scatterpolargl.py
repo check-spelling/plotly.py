@@ -153,8 +153,8 @@ class ScatterpolarglValidator(_plotly_utils.basevalidators.CompoundValidator):
                 Line` instance or dict with compatible
                 properties
             marker
-                :class:`plotly.graph_objects.scatterpolargl.Mar
-                ker` instance or dict with compatible
+                :class:`plotly.graph_objects.scatterpolargl.
+                Marker` instance or dict with compatible
                 properties
             meta
                 Assigns extra meta information associated with

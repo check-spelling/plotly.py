@@ -11,8 +11,8 @@ class SelectedValidator(_plotly_utils.basevalidators.CompoundValidator):
                 "data_docs",
                 """
             marker
-                :class:`plotly.graph_objects.splom.selected.Mar
-                ker` instance or dict with compatible
+                :class:`plotly.graph_objects.splom.selected.
+                Marker` instance or dict with compatible
                 properties
 """,
             ),

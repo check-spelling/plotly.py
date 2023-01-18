@@ -957,8 +957,8 @@ class Choroplethmapbox(_BaseTraceType):
             Supported dict properties:
 
                 line
-                    :class:`plotly.graph_objects.choroplethmapbox.m
-                    arker.Line` instance or dict with compatible
+                    :class:`plotly.graph_objects.choroplethmapbox.
+                    marker.Line` instance or dict with compatible
                     properties
                 opacity
                     Sets the opacity of the locations.

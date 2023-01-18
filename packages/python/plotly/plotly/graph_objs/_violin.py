@@ -1058,8 +1058,8 @@ class Violin(_BaseTraceType):
             Supported dict properties:
 
                 marker
-                    :class:`plotly.graph_objects.violin.selected.Ma
-                    rker` instance or dict with compatible
+                    :class:`plotly.graph_objects.violin.selected.
+                    Marker` instance or dict with compatible
                     properties
 
         Returns

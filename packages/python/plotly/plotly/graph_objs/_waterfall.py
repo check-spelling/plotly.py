@@ -1407,8 +1407,8 @@ class Waterfall(_BaseTraceType):
             Supported dict properties:
 
                 marker
-                    :class:`plotly.graph_objects.waterfall.totals.M
-                    arker` instance or dict with compatible
+                    :class:`plotly.graph_objects.waterfall.totals.
+                    Marker` instance or dict with compatible
                     properties
 
         Returns

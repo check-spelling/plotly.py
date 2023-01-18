@@ -830,9 +830,9 @@ class Scattercarpet(_BaseTraceType):
                     color scales can be linked to the same color
                     axis.
                 colorbar
-                    :class:`plotly.graph_objects.scattercarpet.mark
-                    er.ColorBar` instance or dict with compatible
-                    properties
+                    :class:`plotly.graph_objects.scattercarpet.
+                    marker.ColorBar` instance or dict with
+                    compatible properties
                 colorscale
                     Sets the colorscale. Has an effect only if in
                     `marker.color` is set to a numerical array. The
@@ -853,12 +853,12 @@ class Scattercarpet(_BaseTraceType):
                     Sets the source reference on Chart Studio Cloud
                     for `color`.
                 gradient
-                    :class:`plotly.graph_objects.scattercarpet.mark
-                    er.Gradient` instance or dict with compatible
-                    properties
+                    :class:`plotly.graph_objects.scattercarpet.
+                    marker.Gradient` instance or dict with
+                    compatible properties
                 line
-                    :class:`plotly.graph_objects.scattercarpet.mark
-                    er.Line` instance or dict with compatible
+                    :class:`plotly.graph_objects.scattercarpet.
+                    marker.Line` instance or dict with compatible
                     properties
                 maxdisplayed
                     Sets a maximum number of points to be drawn on

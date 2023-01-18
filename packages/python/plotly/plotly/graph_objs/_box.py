@@ -1556,8 +1556,8 @@ class Box(_BaseTraceType):
             Supported dict properties:
 
                 marker
-                    :class:`plotly.graph_objects.box.unselected.Mar
-                    ker` instance or dict with compatible
+                    :class:`plotly.graph_objects.box.unselected.
+                    Marker` instance or dict with compatible
                     properties
 
         Returns

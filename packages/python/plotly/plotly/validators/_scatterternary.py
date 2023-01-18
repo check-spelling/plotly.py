@@ -176,8 +176,8 @@ class ScatterternaryValidator(_plotly_utils.basevalidators.CompoundValidator):
                 Line` instance or dict with compatible
                 properties
             marker
-                :class:`plotly.graph_objects.scatterternary.Mar
-                ker` instance or dict with compatible
+                :class:`plotly.graph_objects.scatterternary.
+                Marker` instance or dict with compatible
                 properties
             meta
                 Assigns extra meta information associated with

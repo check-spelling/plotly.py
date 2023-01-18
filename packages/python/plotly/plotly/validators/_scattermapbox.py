@@ -150,8 +150,9 @@ class ScattermapboxValidator(_plotly_utils.basevalidators.CompoundValidator):
                 Sets the source reference on Chart Studio Cloud
                 for `lon`.
             marker
-                :class:`plotly.graph_objects.scattermapbox.Mark
-                er` instance or dict with compatible properties
+                :class:`plotly.graph_objects.scattermapbox.
+                Marker` instance or dict with compatible
+                properties
             meta
                 Assigns extra meta information associated with
                 this trace that can be used in various text

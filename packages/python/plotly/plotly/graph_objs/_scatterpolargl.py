@@ -732,9 +732,9 @@ class Scatterpolargl(_BaseTraceType):
                     color scales can be linked to the same color
                     axis.
                 colorbar
-                    :class:`plotly.graph_objects.scatterpolargl.mar
-                    ker.ColorBar` instance or dict with compatible
-                    properties
+                    :class:`plotly.graph_objects.scatterpolargl.
+                    marker.ColorBar` instance or dict with
+                    compatible properties
                 colorscale
                     Sets the colorscale. Has an effect only if in
                     `marker.color` is set to a numerical array. The
@@ -755,8 +755,8 @@ class Scatterpolargl(_BaseTraceType):
                     Sets the source reference on Chart Studio Cloud
                     for `color`.
                 line
-                    :class:`plotly.graph_objects.scatterpolargl.mar
-                    ker.Line` instance or dict with compatible
+                    :class:`plotly.graph_objects.scatterpolargl.
+                    marker.Line` instance or dict with compatible
                     properties
                 opacity
                     Sets the marker opacity.

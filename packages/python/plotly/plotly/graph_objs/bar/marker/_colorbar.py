@@ -1537,9 +1537,9 @@ class ColorBar(_BaseTraceHierarchyType):
             colorbar.Tickformatstop` instances or dicts with
             compatible properties
         tickformatstopdefaults
-            When used in a template (as layout.template.data.bar.ma
-            rker.colorbar.tickformatstopdefaults), sets the default
-            property values to use for elements of
+            When used in a template (as layout.template.data.bar.
+            marker.colorbar.tickformatstopdefaults), sets the
+            default property values to use for elements of
             bar.marker.colorbar.tickformatstops
         ticklabeloverflow
             Determines how we handle tick labels that would

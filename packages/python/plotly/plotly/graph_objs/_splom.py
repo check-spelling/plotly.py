@@ -820,8 +820,8 @@ class Splom(_BaseTraceType):
             Supported dict properties:
 
                 marker
-                    :class:`plotly.graph_objects.splom.selected.Mar
-                    ker` instance or dict with compatible
+                    :class:`plotly.graph_objects.splom.selected.
+                    Marker` instance or dict with compatible
                     properties
 
         Returns
@@ -1068,8 +1068,8 @@ class Splom(_BaseTraceType):
             Supported dict properties:
 
                 marker
-                    :class:`plotly.graph_objects.splom.unselected.M
-                    arker` instance or dict with compatible
+                    :class:`plotly.graph_objects.splom.unselected.
+                    Marker` instance or dict with compatible
                     properties
 
         Returns
