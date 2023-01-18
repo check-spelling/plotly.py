@@ -5992,7 +5992,7 @@ class BaseTraceType(BaseTraceHierarchyType):
 
     def _dispatch_on_hover(self, points, state):
         """
-        Dispatch points and device state all all hover callbacks
+        Dispatch points and device state all hover callbacks
         """
         for callback in self._hover_callbacks:
             callback(self, points, state)
@@ -6054,7 +6054,7 @@ class BaseTraceType(BaseTraceHierarchyType):
 
     def _dispatch_on_unhover(self, points, state):
         """
-        Dispatch points and device state all all hover callbacks
+        Dispatch points and device state all hover callbacks
         """
         for callback in self._unhover_callbacks:
             callback(self, points, state)
@@ -6115,7 +6115,7 @@ class BaseTraceType(BaseTraceHierarchyType):
 
     def _dispatch_on_click(self, points, state):
         """
-        Dispatch points and device state all all hover callbacks
+        Dispatch points and device state all hover callbacks
         """
         for callback in self._click_callbacks:
             callback(self, points, state)
