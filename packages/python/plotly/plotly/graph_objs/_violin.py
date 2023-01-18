@@ -2049,7 +2049,7 @@ class Violin(_BaseTraceType):
         using `y` (`x`) values. By supplying an `x` (`y`) array, one
         violin per distinct x (y) value is drawn If no `x` (`y`) list
         is provided, a single violin is drawn. That violin position is
-        then positioned with with `name` or with `x0` (`y0`) if
+        then positioned with `name` or with `x0` (`y0`) if
         provided.
 
         Parameters

@@ -54,7 +54,7 @@ def sign_in(username, api_key, **kwargs):
     :param (str) username: The username you'd use to sign in to Plotly
     :param (str) api_key: The api key associated with above username
     :param (list|optional) stream_ids: Stream tokens for above credentials
-    :param (str|optional) proxy_username: The un associated with with your Proxy
+    :param (str|optional) proxy_username: The un associated with your Proxy
     :param (str|optional) proxy_password: The pw associated with your Proxy un
 
     :param (str|optional) plotly_domain:
