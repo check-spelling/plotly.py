@@ -203,8 +203,9 @@ class ScattercarpetValidator(_plotly_utils.basevalidators.CompoundValidator):
                 Determines whether or not an item corresponding
                 to this trace is shown in the legend.
             stream
-                :class:`plotly.graph_objects.scattercarpet.Stre
-                am` instance or dict with compatible properties
+                :class:`plotly.graph_objects.scattercarpet.
+                Stream` instance or dict with compatible
+                properties
             text
                 Sets text elements associated with each (a,b)
                 point. If a single string, the same string

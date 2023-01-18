@@ -204,8 +204,9 @@ class DensitymapboxValidator(_plotly_utils.basevalidators.CompoundValidator):
                 Determines whether or not a colorbar is
                 displayed for this trace.
             stream
-                :class:`plotly.graph_objects.densitymapbox.Stre
-                am` instance or dict with compatible properties
+                :class:`plotly.graph_objects.densitymapbox.
+                Stream` instance or dict with compatible
+                properties
             subplot
                 Sets a reference between this trace's data
                 coordinates and a mapbox subplot. If "mapbox"

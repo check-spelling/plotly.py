@@ -212,8 +212,8 @@ class ScatterpolarglValidator(_plotly_utils.basevalidators.CompoundValidator):
                 Determines whether or not an item corresponding
                 to this trace is shown in the legend.
             stream
-                :class:`plotly.graph_objects.scatterpolargl.Str
-                eam` instance or dict with compatible
+                :class:`plotly.graph_objects.scatterpolargl.
+                Stream` instance or dict with compatible
                 properties
             subplot
                 Sets a reference between this trace's data

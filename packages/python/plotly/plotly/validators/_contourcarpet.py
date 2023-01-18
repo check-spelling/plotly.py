@@ -186,8 +186,9 @@ class ContourcarpetValidator(_plotly_utils.basevalidators.CompoundValidator):
                 Determines whether or not a colorbar is
                 displayed for this trace.
             stream
-                :class:`plotly.graph_objects.contourcarpet.Stre
-                am` instance or dict with compatible properties
+                :class:`plotly.graph_objects.contourcarpet.
+                Stream` instance or dict with compatible
+                properties
             text
                 Sets the text elements associated with each z
                 value.

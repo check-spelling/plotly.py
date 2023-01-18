@@ -211,8 +211,8 @@ class ChoroplethmapboxValidator(_plotly_utils.basevalidators.CompoundValidator):
                 Determines whether or not a colorbar is
                 displayed for this trace.
             stream
-                :class:`plotly.graph_objects.choroplethmapbox.S
-                tream` instance or dict with compatible
+                :class:`plotly.graph_objects.choroplethmapbox.
+                Stream` instance or dict with compatible
                 properties
             subplot
                 Sets a reference between this trace's data
