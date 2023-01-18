@@ -1955,9 +1955,9 @@ class XAxis(_BaseLayoutHierarchyType):
             09:15:23.456* with tickformat "%H~%M~%S.%2f" would
             display "09~15~23.46"
         tickformatstops
-            A tuple of :class:`plotly.graph_objects.layout.scene.xa
-            xis.Tickformatstop` instances or dicts with compatible
-            properties
+            A tuple of :class:`plotly.graph_objects.layout.scene.
+            xaxis.Tickformatstop` instances or dicts with
+            compatible properties
         tickformatstopdefaults
             When used in a template (as layout.template.layout.scen
             e.xaxis.tickformatstopdefaults), sets the default
@@ -2299,9 +2299,9 @@ class XAxis(_BaseLayoutHierarchyType):
             09:15:23.456* with tickformat "%H~%M~%S.%2f" would
             display "09~15~23.46"
         tickformatstops
-            A tuple of :class:`plotly.graph_objects.layout.scene.xa
-            xis.Tickformatstop` instances or dicts with compatible
-            properties
+            A tuple of :class:`plotly.graph_objects.layout.scene.
+            xaxis.Tickformatstop` instances or dicts with
+            compatible properties
         tickformatstopdefaults
             When used in a template (as layout.template.layout.
             scene.xaxis.tickformatstopdefaults), sets the default
