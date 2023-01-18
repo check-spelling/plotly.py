@@ -11,8 +11,9 @@ class TemplateValidator(_plotly_utils.basevalidators.BaseTemplateValidator):
                 "data_docs",
                 """
             data
-                :class:`plotly.graph_objects.layout.template.Da
-                ta` instance or dict with compatible properties
+                :class:`plotly.graph_objects.layout.template.
+                Data` instance or dict with compatible
+                properties
             layout
                 :class:`plotly.graph_objects.Layout` instance
                 or dict with compatible properties

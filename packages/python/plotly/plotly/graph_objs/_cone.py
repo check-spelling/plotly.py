@@ -386,10 +386,10 @@ class Cone(_BaseTraceType):
                     colorbar.Tickformatstop` instances or dicts
                     with compatible properties
                 tickformatstopdefaults
-                    When used in a template (as layout.template.dat
-                    a.cone.colorbar.tickformatstopdefaults), sets
-                    the default property values to use for elements
-                    of cone.colorbar.tickformatstops
+                    When used in a template (as layout.template.
+                    data.cone.colorbar.tickformatstopdefaults),
+                    sets the default property values to use for
+                    elements of cone.colorbar.tickformatstops
                 ticklabeloverflow
                     Determines how we handle tick labels that would
                     overflow either the graph div or the domain of
