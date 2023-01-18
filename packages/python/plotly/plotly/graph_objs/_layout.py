@@ -3416,8 +3416,8 @@ class Layout(_BaseLayoutType):
                     :class:`plotly.graph_objects.layout.smith.Domai
                     n` instance or dict with compatible properties
                 imaginaryaxis
-                    :class:`plotly.graph_objects.layout.smith.Imagi
-                    naryaxis` instance or dict with compatible
+                    :class:`plotly.graph_objects.layout.smith.
+                    Imaginaryaxis` instance or dict with compatible
                     properties
                 realaxis
                     :class:`plotly.graph_objects.layout.smith.Reala
