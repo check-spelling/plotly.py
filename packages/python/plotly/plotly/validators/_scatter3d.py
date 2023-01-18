@@ -157,8 +157,9 @@ class Scatter3DValidator(_plotly_utils.basevalidators.CompoundValidator):
             opacity
                 Sets the opacity of the trace.
             projection
-                :class:`plotly.graph_objects.scatter3d.Projecti
-                on` instance or dict with compatible properties
+                :class:`plotly.graph_objects.scatter3d.
+                Projection` instance or dict with compatible
+                properties
             scene
                 Sets a reference between this trace's 3D
                 coordinate system and a 3D scene. If "scene"

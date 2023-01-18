@@ -95,8 +95,8 @@ class Rotation(_BaseLayoutHierarchyType):
         ----------
         arg
             dict of properties compatible with this constructor or
-            an instance of :class:`plotly.graph_objs.layout.geo.pro
-            jection.Rotation`
+            an instance of :class:`plotly.graph_objs.layout.geo.
+            projection.Rotation`
         lat
             Rotates the map along meridians (in degrees North).
         lon

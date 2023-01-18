@@ -11,16 +11,16 @@ class ProjectionValidator(_plotly_utils.basevalidators.CompoundValidator):
                 "data_docs",
                 """
             x
-                :class:`plotly.graph_objects.scatter3d.projecti
-                on.X` instance or dict with compatible
+                :class:`plotly.graph_objects.scatter3d.
+                projection.X` instance or dict with compatible
                 properties
             y
-                :class:`plotly.graph_objects.scatter3d.projecti
-                on.Y` instance or dict with compatible
+                :class:`plotly.graph_objects.scatter3d.
+                projection.Y` instance or dict with compatible
                 properties
             z
-                :class:`plotly.graph_objects.scatter3d.projecti
-                on.Z` instance or dict with compatible
+                :class:`plotly.graph_objects.scatter3d.
+                projection.Z` instance or dict with compatible
                 properties
 """,
             ),

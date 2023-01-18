@@ -1424,8 +1424,8 @@ class Layout(_BaseLayoutType):
                 oceancolor
                     Sets the ocean color
                 projection
-                    :class:`plotly.graph_objects.layout.geo.Project
-                    ion` instance or dict with compatible
+                    :class:`plotly.graph_objects.layout.geo.
+                    Projection` instance or dict with compatible
                     properties
                 resolution
                     Sets the resolution of the base layers. The
