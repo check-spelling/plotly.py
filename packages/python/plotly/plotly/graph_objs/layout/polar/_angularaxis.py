@@ -1581,9 +1581,9 @@ class AngularAxis(_BaseLayoutHierarchyType):
             angularaxis.Tickformatstop` instances or dicts with
             compatible properties
         tickformatstopdefaults
-            When used in a template (as layout.template.layout.pola
-            r.angularaxis.tickformatstopdefaults), sets the default
-            property values to use for elements of
+            When used in a template (as layout.template.layout.
+            polar.angularaxis.tickformatstopdefaults), sets the
+            default property values to use for elements of
             layout.polar.angularaxis.tickformatstops
         ticklabelstep
             Sets the spacing between tick labels as compared to the
@@ -1886,9 +1886,9 @@ class AngularAxis(_BaseLayoutHierarchyType):
             angularaxis.Tickformatstop` instances or dicts with
             compatible properties
         tickformatstopdefaults
-            When used in a template (as layout.template.layout.pola
-            r.angularaxis.tickformatstopdefaults), sets the default
-            property values to use for elements of
+            When used in a template (as layout.template.layout.
+            polar.angularaxis.tickformatstopdefaults), sets the
+            default property values to use for elements of
             layout.polar.angularaxis.tickformatstops
         ticklabelstep
             Sets the spacing between tick labels as compared to the
