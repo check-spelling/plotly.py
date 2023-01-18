@@ -295,7 +295,7 @@ py.iplot(go.Figure(data=data, layout=layout), filename='redshift/user preference
 It seems to be that sports are just a bit more compressed than the rest. This may be because there's simply fewer people interested in sports or our company doesn't have many sporting events.
 
 
-Now that we've explored a little bit about some of our customers we've stumbled upon this sports anomoly. Are we listing less sports events? Do we sell approximately the same amount of all event types and our users just aren't drawn to sports events?
+Now that we've explored a little bit about some of our customers we've stumbled upon this sports anomaly. Are we listing less sports events? Do we sell approximately the same amount of all event types and our users just aren't drawn to sports events?
 
 We've got to understand a bit more and to do so we'll be plotting a simple bar graph of our event information.
 
