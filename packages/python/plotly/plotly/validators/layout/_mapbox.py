@@ -23,8 +23,9 @@ class MapboxValidator(_plotly_utils.basevalidators.CompoundValidator):
                 Sets the bearing angle of the map in degrees
                 counter-clockwise from North (mapbox.bearing).
             bounds
-                :class:`plotly.graph_objects.layout.mapbox.Boun
-                ds` instance or dict with compatible properties
+                :class:`plotly.graph_objects.layout.mapbox.
+                Bounds` instance or dict with compatible
+                properties
             center
                 :class:`plotly.graph_objects.layout.mapbox.Cent
                 er` instance or dict with compatible properties
