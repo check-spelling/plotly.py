@@ -27,8 +27,9 @@ class MapboxValidator(_plotly_utils.basevalidators.CompoundValidator):
                 Bounds` instance or dict with compatible
                 properties
             center
-                :class:`plotly.graph_objects.layout.mapbox.Cent
-                er` instance or dict with compatible properties
+                :class:`plotly.graph_objects.layout.mapbox.
+                Center` instance or dict with compatible
+                properties
             domain
                 :class:`plotly.graph_objects.layout.mapbox.Doma
                 in` instance or dict with compatible properties
