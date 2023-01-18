@@ -226,7 +226,7 @@ class OrcaConfig(object):
         root_dir = os.path.dirname(os.path.abspath(plotly.__file__))
         self.package_dir = os.path.join(root_dir, "package_data")
 
-        # Load pre-existing configuration
+        # Load preexisting configuration
         self.reload(warn=False)
 
         # Compute constants

@@ -1449,7 +1449,7 @@ def _create_or_update(data, filetype):
     """
     api_module = getattr(v2, filetype + "s")
 
-    # lookup if pre-existing filename already exists
+    # lookup if preexisting filename already exists
     if "parent_path" in data:
         filename = data["parent_path"] + "/" + data["filename"]
     else:
@@ -1514,7 +1514,7 @@ def _create_or_overwrite_grid(data, max_retries=3):
     """
     api_module = v2.grids
 
-    # lookup if pre-existing filename already exists
+    # lookup if preexisting filename already exists
     if "parent_path" in data:
         filename = data["parent_path"] + "/" + data["filename"]
     else:
