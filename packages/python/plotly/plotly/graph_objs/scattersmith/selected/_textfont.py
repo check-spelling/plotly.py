@@ -86,8 +86,8 @@ class Textfont(_BaseTraceHierarchyType):
         ----------
         arg
             dict of properties compatible with this constructor or
-            an instance of :class:`plotly.graph_objs.scattersmith.s
-            elected.Textfont`
+            an instance of :class:`plotly.graph_objs.scattersmith.
+            selected.Textfont`
         color
             Sets the text font color of selected points.
 

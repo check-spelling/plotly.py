@@ -1059,13 +1059,13 @@ class Scattercarpet(_BaseTraceType):
             Supported dict properties:
 
                 marker
-                    :class:`plotly.graph_objects.scattercarpet.sele
-                    cted.Marker` instance or dict with compatible
-                    properties
+                    :class:`plotly.graph_objects.scattercarpet.
+                    selected.Marker` instance or dict with
+                    compatible properties
                 textfont
-                    :class:`plotly.graph_objects.scattercarpet.sele
-                    cted.Textfont` instance or dict with compatible
-                    properties
+                    :class:`plotly.graph_objects.scattercarpet.
+                    selected.Textfont` instance or dict with
+                    compatible properties
 
         Returns
         -------

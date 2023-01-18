@@ -210,8 +210,8 @@ class ScatterternaryValidator(_plotly_utils.basevalidators.CompoundValidator):
             opacity
                 Sets the opacity of the trace.
             selected
-                :class:`plotly.graph_objects.scatterternary.Sel
-                ected` instance or dict with compatible
+                :class:`plotly.graph_objects.scatterternary.
+                Selected` instance or dict with compatible
                 properties
             selectedpoints
                 Array containing integer indices of selected

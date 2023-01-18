@@ -182,8 +182,8 @@ class ScattermapboxValidator(_plotly_utils.basevalidators.CompoundValidator):
             opacity
                 Sets the opacity of the trace.
             selected
-                :class:`plotly.graph_objects.scattermapbox.Sele
-                cted` instance or dict with compatible
+                :class:`plotly.graph_objects.scattermapbox.
+                Selected` instance or dict with compatible
                 properties
             selectedpoints
                 Array containing integer indices of selected

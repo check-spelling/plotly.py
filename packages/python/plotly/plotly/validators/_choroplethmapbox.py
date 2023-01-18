@@ -192,8 +192,8 @@ class ChoroplethmapboxValidator(_plotly_utils.basevalidators.CompoundValidator):
                 array and `zmax` will correspond to the first
                 color.
             selected
-                :class:`plotly.graph_objects.choroplethmapbox.S
-                elected` instance or dict with compatible
+                :class:`plotly.graph_objects.choroplethmapbox.
+                Selected` instance or dict with compatible
                 properties
             selectedpoints
                 Array containing integer indices of selected

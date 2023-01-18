@@ -13,8 +13,8 @@ class SelectedValidator(_plotly_utils.basevalidators.CompoundValidator):
                 "data_docs",
                 """
             marker
-                :class:`plotly.graph_objects.choroplethmapbox.s
-                elected.Marker` instance or dict with
+                :class:`plotly.graph_objects.choroplethmapbox.
+                selected.Marker` instance or dict with
                 compatible properties
 """,
             ),
