@@ -74,7 +74,7 @@ class Renderer(object):
 
     def open_figure(self, fig, props):
         """
-        Begin commands for a particular figure.
+        Start commands for a particular figure.
 
         Parameters
         ----------
@@ -98,7 +98,7 @@ class Renderer(object):
 
     def open_axes(self, ax, props):
         """
-        Begin commands for a particular axes.
+        Start commands for a particular axes.
 
         Parameters
         ----------
@@ -122,7 +122,7 @@ class Renderer(object):
 
     def open_legend(self, legend, props):
         """
-        Beging commands for a particular legend.
+        Start commands for a particular legend.
 
         Parameters
         ----------
