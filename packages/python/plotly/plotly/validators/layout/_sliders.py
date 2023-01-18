@@ -83,8 +83,8 @@ class SlidersValidator(_plotly_utils.basevalidators.CompoundArrayValidator):
             tickwidth
                 Sets the tick width (in px).
             transition
-                :class:`plotly.graph_objects.layout.slider.Tran
-                sition` instance or dict with compatible
+                :class:`plotly.graph_objects.layout.slider.
+                Transition` instance or dict with compatible
                 properties
             visible
                 Determines whether or not the slider is
