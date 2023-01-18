@@ -69,7 +69,7 @@ class PlotlyRenderer(Renderer):
         sizes set by mpl. The 'hovermode' key controls what shows up when you
         mouse around a figure in plotly, it's set to show the 'closest' point.
 
-        Positional agurments:
+        Positional arguments:
         fig -- a matplotlib.figure.Figure object.
         props.keys(): [
             'figwidth',
