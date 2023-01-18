@@ -61,7 +61,7 @@ class Column(object):
         """
         Initialize a Plotly column with `data` and `name`.
         `data` is an array of strings, numbers, or dates.
-        `name` is the name of the column as it will apppear
+        `name` is the name of the column as it will appear
                in the Plotly grid. Names must be unique to a grid.
         """
 
