@@ -1959,8 +1959,8 @@ class ZAxis(_BaseLayoutHierarchyType):
             xis.Tickformatstop` instances or dicts with compatible
             properties
         tickformatstopdefaults
-            When used in a template (as layout.template.layout.scen
-            e.zaxis.tickformatstopdefaults), sets the default
+            When used in a template (as layout.template.layout.
+            scene.zaxis.tickformatstopdefaults), sets the default
             property values to use for elements of
             layout.scene.zaxis.tickformatstops
         ticklen

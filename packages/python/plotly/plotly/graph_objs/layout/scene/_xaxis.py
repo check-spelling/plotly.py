@@ -2303,8 +2303,8 @@ class XAxis(_BaseLayoutHierarchyType):
             xis.Tickformatstop` instances or dicts with compatible
             properties
         tickformatstopdefaults
-            When used in a template (as layout.template.layout.scen
-            e.xaxis.tickformatstopdefaults), sets the default
+            When used in a template (as layout.template.layout.
+            scene.xaxis.tickformatstopdefaults), sets the default
             property values to use for elements of
             layout.scene.xaxis.tickformatstops
         ticklen
