@@ -171,8 +171,9 @@ class IsosurfaceValidator(_plotly_utils.basevalidators.CompoundValidator):
                 Sets the width (in px or fraction) of the
                 legend for this trace.
             lighting
-                :class:`plotly.graph_objects.isosurface.Lightin
-                g` instance or dict with compatible properties
+                :class:`plotly.graph_objects.isosurface.
+                Lighting` instance or dict with compatible
+                properties
             lightposition
                 :class:`plotly.graph_objects.isosurface.Lightpo
                 sition` instance or dict with compatible
