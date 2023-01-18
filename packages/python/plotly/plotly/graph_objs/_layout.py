@@ -3560,8 +3560,9 @@ class Layout(_BaseLayoutType):
                     Aaxis` instance or dict with compatible
                     properties
                 baxis
-                    :class:`plotly.graph_objects.layout.ternary.Bax
-                    is` instance or dict with compatible properties
+                    :class:`plotly.graph_objects.layout.ternary.
+                    Baxis` instance or dict with compatible
+                    properties
                 bgcolor
                     Set the background color of the subplot
                 caxis
