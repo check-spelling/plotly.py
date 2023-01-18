@@ -25,8 +25,8 @@ class TernaryValidator(_plotly_utils.basevalidators.CompoundValidator):
                 Caxis` instance or dict with compatible
                 properties
             domain
-                :class:`plotly.graph_objects.layout.ternary.Dom
-                ain` instance or dict with compatible
+                :class:`plotly.graph_objects.layout.ternary.
+                Domain` instance or dict with compatible
                 properties
             sum
                 The number each triplet should sum to, and the

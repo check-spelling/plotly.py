@@ -2116,8 +2116,9 @@ class Layout(_BaseLayoutType):
                     Center` instance or dict with compatible
                     properties
                 domain
-                    :class:`plotly.graph_objects.layout.mapbox.Doma
-                    in` instance or dict with compatible properties
+                    :class:`plotly.graph_objects.layout.mapbox.
+                    Domain` instance or dict with compatible
+                    properties
                 layers
                     A tuple of :class:`plotly.graph_objects.layout.
                     mapbox.Layer` instances or dicts with
@@ -3573,8 +3574,8 @@ class Layout(_BaseLayoutType):
                     Caxis` instance or dict with compatible
                     properties
                 domain
-                    :class:`plotly.graph_objects.layout.ternary.Dom
-                    ain` instance or dict with compatible
+                    :class:`plotly.graph_objects.layout.ternary.
+                    Domain` instance or dict with compatible
                     properties
                 sum
                     The number each triplet should sum to, and the

@@ -31,8 +31,9 @@ class MapboxValidator(_plotly_utils.basevalidators.CompoundValidator):
                 Center` instance or dict with compatible
                 properties
             domain
-                :class:`plotly.graph_objects.layout.mapbox.Doma
-                in` instance or dict with compatible properties
+                :class:`plotly.graph_objects.layout.mapbox.
+                Domain` instance or dict with compatible
+                properties
             layers
                 A tuple of :class:`plotly.graph_objects.layout.
                 mapbox.Layer` instances or dicts with

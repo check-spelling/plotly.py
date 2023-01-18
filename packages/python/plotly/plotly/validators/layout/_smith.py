@@ -13,8 +13,9 @@ class SmithValidator(_plotly_utils.basevalidators.CompoundValidator):
             bgcolor
                 Set the background color of the subplot
             domain
-                :class:`plotly.graph_objects.layout.smith.Domai
-                n` instance or dict with compatible properties
+                :class:`plotly.graph_objects.layout.smith.
+                Domain` instance or dict with compatible
+                properties
             imaginaryaxis
                 :class:`plotly.graph_objects.layout.smith.Imagi
                 naryaxis` instance or dict with compatible
