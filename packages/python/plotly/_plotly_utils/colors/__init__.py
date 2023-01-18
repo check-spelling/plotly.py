@@ -425,7 +425,7 @@ def convert_colors_to_same_type(
     rgb or tuple color type, aswell as the scale as the second element. If
     colors is a Plotly Scale name, then 'scale' will be forced to the scale
     from the respective colorscale and the colors in that colorscale will also
-    be coverted to the selected colortype. If colors is None, then there is an
+    be converted to the selected colortype. If colors is None, then there is an
     option to return portion of the DEFAULT_PLOTLY_COLORS
 
     :param (str|tuple|list) colors: either a plotly scale name, an rgb or hex
