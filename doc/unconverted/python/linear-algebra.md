@@ -13,7 +13,7 @@ jupyter:
     name: python2
   plotly:
     description: Learn how to perform several operations on matrices including inverse,
-      eigenvalues, and determinents
+      eigenvalues, and determinants
     display_as: mathematics
     has_thumbnail: false
     language: python
@@ -198,7 +198,7 @@ display(HTML('<link rel="stylesheet" type="text/css" href="http://help.plot.ly/d
 import publisher
 publisher.publish(
     'python_Linear_Algebra.ipynb', 'python/linear-algebra/', 'Linear Algebra | plotly',
-    'Learn how to perform several operations on matrices including inverse, eigenvalues, and determinents',
+    'Learn how to perform several operations on matrices including inverse, eigenvalues, and determinants',
     title='Linear Algebra in Python. | plotly',
     name='Linear Algebra',
     language='python',
