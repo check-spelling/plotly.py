@@ -25,8 +25,8 @@ class SlidersValidator(_plotly_utils.basevalidators.CompoundArrayValidator):
                 Sets the width (in px) of the border enclosing
                 the slider.
             currentvalue
-                :class:`plotly.graph_objects.layout.slider.Curr
-                entvalue` instance or dict with compatible
+                :class:`plotly.graph_objects.layout.slider.
+                Currentvalue` instance or dict with compatible
                 properties
             font
                 Sets the font of the slider step labels.
