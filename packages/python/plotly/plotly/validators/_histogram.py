@@ -49,8 +49,9 @@ class HistogramValidator(_plotly_utils.basevalidators.CompoundValidator):
                 Constrain the size of text inside or outside a
                 bar to be no larger than the bar itself.
             cumulative
-                :class:`plotly.graph_objects.histogram.Cumulati
-                ve` instance or dict with compatible properties
+                :class:`plotly.graph_objects.histogram.
+                Cumulative` instance or dict with compatible
+                properties
             customdata
                 Assigns extra data each datum. This may be
                 useful when listening to hover, click and
