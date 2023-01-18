@@ -11,9 +11,9 @@ class LayoutValidator(_plotly_utils.basevalidators.CompoundValidator):
                 "data_docs",
                 """
             activeselection
-                :class:`plotly.graph_objects.layout.Activeselec
-                tion` instance or dict with compatible
-                properties
+                :class:`plotly.graph_objects.layout.
+                Activeselection` instance or dict with
+                compatible properties
             activeshape
                 :class:`plotly.graph_objects.layout.Activeshape
                 ` instance or dict with compatible properties
