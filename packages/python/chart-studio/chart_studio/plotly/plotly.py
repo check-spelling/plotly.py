@@ -1802,7 +1802,7 @@ def _extract_grid_graph_obj(obj_dict, reference_obj, grid, path):
             # and should be reinstated if chart studio gets this capability
             #
             # elif isinstance(prop_validator, CompoundArrayValidator):
-            #     # Recurse on elements of object arary
+            #     # Recurse on elements of object array
             #     reference_element = prop_validator.validate_coerce([{}])[0]
             #     for i, element_dict in enumerate(obj_dict[prop]):
             #         _extract_grid_graph_obj(
