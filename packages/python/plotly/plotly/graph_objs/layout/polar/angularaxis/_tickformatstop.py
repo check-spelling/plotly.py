@@ -187,8 +187,8 @@ class Tickformatstop(_BaseLayoutHierarchyType):
         ----------
         arg
             dict of properties compatible with this constructor or
-            an instance of :class:`plotly.graph_objs.layout.polar.a
-            ngularaxis.Tickformatstop`
+            an instance of :class:`plotly.graph_objs.layout.polar.
+            angularaxis.Tickformatstop`
         dtickrange
             range [*min*, *max*], where "min", "max" - dtick values
             which describe some zoom level, it is possible to omit
