@@ -155,7 +155,7 @@ fig = go.Figure(data=
                  label = 'Block Width', values = df['blockWidth']),
             dict(tickvals = [0,0.5,1,2,3],
                  ticktext = ['A','AB','B','Y','Z'],
-                 label = 'Cyclinder Material', values = df['cycMaterial']),
+                 label = 'Cylinder Material', values = df['cycMaterial']),
             dict(range = [-1,4],
                  tickvals = [0,1,2,3],
                  label = 'Block Material', values = df['blockMaterial']),
