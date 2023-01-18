@@ -124,7 +124,7 @@ layout=Layout(title= "Coauthorship network of scientists working on network theo
 
 data=[trace1, trace2]
 fig=Figure(data=data, layout=layout)
-py.iplot(fig, filename='Coautorship-network-igraph')
+py.iplot(fig, filename='Coauthorship-network-igraph')
 ```
 
 #### Networkx
@@ -179,7 +179,7 @@ annot="This networkx.Graph has the Fruchterman-Reingold layout<br>Code:"+\
 data1=[trace3, trace4]
 fig1=Figure(data=data1, layout=layout)
 fig1['layout']['annotations'][0]['text']=annot
-py.iplot(fig1, filename='Coautorship-network-nx')
+py.iplot(fig1, filename='Coauthorship-network-nx')
 ```
 
 Zoom in a selected region of nodes to see that edges are also plotted, but due to the node positions assigned by FR layout, they are invisible at the first sight.
