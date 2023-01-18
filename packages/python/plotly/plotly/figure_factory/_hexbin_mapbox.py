@@ -188,7 +188,7 @@ def _compute_hexbin(x, y, x_range, y_range, color, nx, agg_func, min_count):
         )
         good_idxs = ~np.isnan(accum)
 
-    agreggated_value = accum[good_idxs]
+    aggregate_value = accum[good_idxs]
 
     centers = np.zeros((n, 2), float)
     centers[: nx1 * ny1, 0] = np.repeat(np.arange(nx1), ny1)
@@ -219,7 +219,7 @@ def _compute_hexbin(x, y, x_range, y_range, color, nx, agg_func, min_count):
     hxs = np.array([hx] * m) * dx + np.vstack(centers[:, 0])
     hys = np.array([hy] * m) * dy / np.sqrt(3) + np.vstack(centers[:, 1])
 
-    return hxs, hys, centers, agreggated_value
+    return hxs, hys, centers, aggregate_value
 
 
 def _compute_wgs84_hexbin(
@@ -279,7 +279,7 @@ def _compute_wgs84_hexbin(
 
     x_range, y_range = _project_latlon_to_wgs84(lat_range, lon_range)
 
-    hxs, hys, centers, agreggated_value = _compute_hexbin(
+    hxs, hys, centers, aggregate_value = _compute_hexbin(
         x, y, x_range, y_range, color, nx, agg_func, min_count
     )
 
@@ -290,7 +290,7 @@ def _compute_wgs84_hexbin(
     centers = centers.astype(str)
     hexagons_ids = pd.Series(centers[:, 0]) + "," + pd.Series(centers[:, 1])
 
-    return hexagons_lats, hexagons_lons, hexagons_ids, agreggated_value
+    return hexagons_lats, hexagons_lons, hexagons_ids, aggregate_value
 
 
 def _hexagons_to_geojson(hexagons_lats, hexagons_lons, ids=None):
