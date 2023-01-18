@@ -231,8 +231,8 @@ class Indicator(_BaseTraceType):
                     default property values to use for elements of
                     indicator.gauge.steps
                 threshold
-                    :class:`plotly.graph_objects.indicator.gauge.Th
-                    reshold` instance or dict with compatible
+                    :class:`plotly.graph_objects.indicator.gauge.
+                    Threshold` instance or dict with compatible
                     properties
 
         Returns

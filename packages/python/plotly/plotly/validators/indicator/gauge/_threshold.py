@@ -13,9 +13,9 @@ class ThresholdValidator(_plotly_utils.basevalidators.CompoundValidator):
                 "data_docs",
                 """
             line
-                :class:`plotly.graph_objects.indicator.gauge.th
-                reshold.Line` instance or dict with compatible
-                properties
+                :class:`plotly.graph_objects.indicator.gauge.
+                threshold.Line` instance or dict with
+                compatible properties
             thickness
                 Sets the thickness of the threshold line as a
                 fraction of the thickness of the gauge.
