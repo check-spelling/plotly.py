@@ -389,8 +389,8 @@ class Hoverlabel(_BaseTraceHierarchyType):
         ----------
         arg
             dict of properties compatible with this constructor or
-            an instance of :class:`plotly.graph_objs.histogram2dcon
-            tour.Hoverlabel`
+            an instance of :class:`plotly.graph_objs.
+            histogram2dcontour.Hoverlabel`
         align
             Sets the horizontal alignment of the text content
             within hover label box. Has an effect only if the hover

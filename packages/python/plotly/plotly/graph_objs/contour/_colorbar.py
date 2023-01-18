@@ -1538,9 +1538,9 @@ class ColorBar(_BaseTraceHierarchyType):
             r.Tickformatstop` instances or dicts with compatible
             properties
         tickformatstopdefaults
-            When used in a template (as layout.template.data.contou
-            r.colorbar.tickformatstopdefaults), sets the default
-            property values to use for elements of
+            When used in a template (as layout.template.data.
+            contour.colorbar.tickformatstopdefaults), sets the
+            default property values to use for elements of
             contour.colorbar.tickformatstops
         ticklabeloverflow
             Determines how we handle tick labels that would
@@ -1829,9 +1829,9 @@ class ColorBar(_BaseTraceHierarchyType):
             r.Tickformatstop` instances or dicts with compatible
             properties
         tickformatstopdefaults
-            When used in a template (as layout.template.data.contou
-            r.colorbar.tickformatstopdefaults), sets the default
-            property values to use for elements of
+            When used in a template (as layout.template.data.
+            contour.colorbar.tickformatstopdefaults), sets the
+            default property values to use for elements of
             contour.colorbar.tickformatstops
         ticklabeloverflow
             Determines how we handle tick labels that would
