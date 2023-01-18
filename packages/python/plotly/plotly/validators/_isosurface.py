@@ -229,8 +229,8 @@ class IsosurfaceValidator(_plotly_utils.basevalidators.CompoundValidator):
                 :class:`plotly.graph_objects.isosurface.Slices`
                 instance or dict with compatible properties
             spaceframe
-                :class:`plotly.graph_objects.isosurface.Spacefr
-                ame` instance or dict with compatible
+                :class:`plotly.graph_objects.isosurface.
+                Spaceframe` instance or dict with compatible
                 properties
             stream
                 :class:`plotly.graph_objects.isosurface.Stream`
