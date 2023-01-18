@@ -21,8 +21,8 @@ class SmithValidator(_plotly_utils.basevalidators.CompoundValidator):
                 Imaginaryaxis` instance or dict with compatible
                 properties
             realaxis
-                :class:`plotly.graph_objects.layout.smith.Reala
-                xis` instance or dict with compatible
+                :class:`plotly.graph_objects.layout.smith.
+                Realaxis` instance or dict with compatible
                 properties
 """,
             ),

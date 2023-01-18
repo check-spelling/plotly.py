@@ -3421,8 +3421,8 @@ class Layout(_BaseLayoutType):
                     Imaginaryaxis` instance or dict with compatible
                     properties
                 realaxis
-                    :class:`plotly.graph_objects.layout.smith.Reala
-                    xis` instance or dict with compatible
+                    :class:`plotly.graph_objects.layout.smith.
+                    Realaxis` instance or dict with compatible
                     properties
 
         Returns

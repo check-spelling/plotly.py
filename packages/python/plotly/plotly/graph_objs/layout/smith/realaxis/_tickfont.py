@@ -151,8 +151,8 @@ class Tickfont(_BaseLayoutHierarchyType):
         ----------
         arg
             dict of properties compatible with this constructor or
-            an instance of :class:`plotly.graph_objs.layout.smith.r
-            ealaxis.Tickfont`
+            an instance of :class:`plotly.graph_objs.layout.smith.
+            realaxis.Tickfont`
         color
 
         family
