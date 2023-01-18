@@ -43,8 +43,8 @@ class CandlestickValidator(_plotly_utils.basevalidators.CompoundValidator):
                 Sets the source reference on Chart Studio Cloud
                 for `hoverinfo`.
             hoverlabel
-                :class:`plotly.graph_objects.candlestick.Hoverl
-                abel` instance or dict with compatible
+                :class:`plotly.graph_objects.candlestick.
+                Hoverlabel` instance or dict with compatible
                 properties
             hovertext
                 Same as `text`.

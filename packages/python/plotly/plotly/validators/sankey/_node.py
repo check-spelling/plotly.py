@@ -37,8 +37,8 @@ class NodeValidator(_plotly_utils.basevalidators.CompoundValidator):
                 `none` is set, click and hover events are still
                 fired.
             hoverlabel
-                :class:`plotly.graph_objects.sankey.node.Hoverl
-                abel` instance or dict with compatible
+                :class:`plotly.graph_objects.sankey.node.
+                Hoverlabel` instance or dict with compatible
                 properties
             hovertemplate
                 Template string used for rendering the

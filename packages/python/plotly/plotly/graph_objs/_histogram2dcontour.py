@@ -2194,8 +2194,8 @@ class Histogram2dContour(_BaseTraceType):
             Sets the source reference on Chart Studio Cloud for
             `hoverinfo`.
         hoverlabel
-            :class:`plotly.graph_objects.histogram2dcontour.Hoverla
-            bel` instance or dict with compatible properties
+            :class:`plotly.graph_objects.histogram2dcontour.
+            Hoverlabel` instance or dict with compatible properties
         hovertemplate
             Template string used for rendering the information that
             appear on hover box. Note that this will override
@@ -2639,8 +2639,8 @@ class Histogram2dContour(_BaseTraceType):
             Sets the source reference on Chart Studio Cloud for
             `hoverinfo`.
         hoverlabel
-            :class:`plotly.graph_objects.histogram2dcontour.Hoverla
-            bel` instance or dict with compatible properties
+            :class:`plotly.graph_objects.histogram2dcontour.
+            Hoverlabel` instance or dict with compatible properties
         hovertemplate
             Template string used for rendering the information that
             appear on hover box. Note that this will override

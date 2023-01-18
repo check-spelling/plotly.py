@@ -83,8 +83,8 @@ class StreamtubeValidator(_plotly_utils.basevalidators.CompoundValidator):
                 Sets the source reference on Chart Studio Cloud
                 for `hoverinfo`.
             hoverlabel
-                :class:`plotly.graph_objects.streamtube.Hoverla
-                bel` instance or dict with compatible
+                :class:`plotly.graph_objects.streamtube.
+                Hoverlabel` instance or dict with compatible
                 properties
             hovertemplate
                 Template string used for rendering the

@@ -29,8 +29,8 @@ class PointcloudValidator(_plotly_utils.basevalidators.CompoundValidator):
                 Sets the source reference on Chart Studio Cloud
                 for `hoverinfo`.
             hoverlabel
-                :class:`plotly.graph_objects.pointcloud.Hoverla
-                bel` instance or dict with compatible
+                :class:`plotly.graph_objects.pointcloud.
+                Hoverlabel` instance or dict with compatible
                 properties
             ids
                 Assigns id labels to each datum. These ids for

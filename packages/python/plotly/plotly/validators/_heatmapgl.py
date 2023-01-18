@@ -69,8 +69,9 @@ class HeatmapglValidator(_plotly_utils.basevalidators.CompoundValidator):
                 Sets the source reference on Chart Studio Cloud
                 for `hoverinfo`.
             hoverlabel
-                :class:`plotly.graph_objects.heatmapgl.Hoverlab
-                el` instance or dict with compatible properties
+                :class:`plotly.graph_objects.heatmapgl.
+                Hoverlabel` instance or dict with compatible
+                properties
             ids
                 Assigns id labels to each datum. These ids for
                 object constancy of data points during

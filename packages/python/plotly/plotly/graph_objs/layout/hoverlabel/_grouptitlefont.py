@@ -152,8 +152,8 @@ class Grouptitlefont(_BaseLayoutHierarchyType):
         ----------
         arg
             dict of properties compatible with this constructor or
-            an instance of :class:`plotly.graph_objs.layout.hoverla
-            bel.Grouptitlefont`
+            an instance of :class:`plotly.graph_objs.layout.
+            hoverlabel.Grouptitlefont`
         color
 
         family

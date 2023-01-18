@@ -76,8 +76,9 @@ class ScatterglValidator(_plotly_utils.basevalidators.CompoundValidator):
                 Sets the source reference on Chart Studio Cloud
                 for `hoverinfo`.
             hoverlabel
-                :class:`plotly.graph_objects.scattergl.Hoverlab
-                el` instance or dict with compatible properties
+                :class:`plotly.graph_objects.scattergl.
+                Hoverlabel` instance or dict with compatible
+                properties
             hovertemplate
                 Template string used for rendering the
                 information that appear on hover box. Note that

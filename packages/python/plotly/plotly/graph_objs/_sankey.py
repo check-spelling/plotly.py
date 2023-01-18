@@ -394,8 +394,8 @@ class Sankey(_BaseTraceType):
                     `none` is set, click and hover events are still
                     fired.
                 hoverlabel
-                    :class:`plotly.graph_objects.sankey.link.Hoverl
-                    abel` instance or dict with compatible
+                    :class:`plotly.graph_objects.sankey.link.
+                    Hoverlabel` instance or dict with compatible
                     properties
                 hovertemplate
                     Template string used for rendering the
@@ -583,8 +583,8 @@ class Sankey(_BaseTraceType):
                     `none` is set, click and hover events are still
                     fired.
                 hoverlabel
-                    :class:`plotly.graph_objects.sankey.node.Hoverl
-                    abel` instance or dict with compatible
+                    :class:`plotly.graph_objects.sankey.node.
+                    Hoverlabel` instance or dict with compatible
                     properties
                 hovertemplate
                     Template string used for rendering the

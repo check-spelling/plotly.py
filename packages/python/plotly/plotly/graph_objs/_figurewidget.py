@@ -8883,8 +8883,8 @@ class FigureWidget(BaseFigureWidget):
             Sets the source reference on Chart Studio Cloud for
             `hoverinfo`.
         hoverlabel
-            :class:`plotly.graph_objects.histogram2dcontour.Hoverla
-            bel` instance or dict with compatible properties
+            :class:`plotly.graph_objects.histogram2dcontour.
+            Hoverlabel` instance or dict with compatible properties
         hovertemplate
             Template string used for rendering the information that
             appear on hover box. Note that this will override
@@ -22241,8 +22241,8 @@ class FigureWidget(BaseFigureWidget):
             (default) lets the text set the box height. Taller text
             will be clipped.
         hoverlabel
-            :class:`plotly.graph_objects.layout.annotation.Hoverlab
-            el` instance or dict with compatible properties
+            :class:`plotly.graph_objects.layout.annotation.
+            Hoverlabel` instance or dict with compatible properties
         hovertext
             Sets text to appear when hovering over this annotation.
             If omitted or blank, no hover label will appear.
