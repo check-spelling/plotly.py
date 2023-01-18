@@ -1642,7 +1642,7 @@ function js2py_serializer(v: any, widgetManager?: any) {
 }
 
 /**
- * ipywidget Python -> Javascript deserializer
+ * ipywidget Python -> JavaScript deserializer
  */
 function py2js_deserializer(v: any, widgetManager?: any) {
   var res: any;

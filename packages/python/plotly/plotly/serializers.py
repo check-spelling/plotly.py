@@ -6,7 +6,7 @@ np = get_module("numpy")
 
 def _py_to_js(v, widget_manager):
     """
-    Python -> Javascript ipywidget serializer
+    Python -> JavaScript ipywidget serializer
 
     This function must repalce all objects that the ipywidget library
     can't serialize natively (e.g. numpy arrays) with serializable
@@ -67,7 +67,7 @@ def _py_to_js(v, widget_manager):
 
 def _js_to_py(v, widget_manager):
     """
-    Javascript -> Python ipywidget deserializer
+    JavaScript -> Python ipywidget deserializer
 
     Parameters
     ----------

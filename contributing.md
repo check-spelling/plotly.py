@@ -23,7 +23,7 @@ the structure of the code and of the repository.
   [contributed to Plotly.js](https://github.com/plotly/plotly.js) or to the `codegen` system
   in `packages/python/plotly/codegen`. Most of the codegen code concerns the generation of docstrings from
   the schema JSON in Plotly.js. Traces and
-  Layout classes have a direct correspondence with their Javascript
+  Layout classes have a direct correspondence with their JavaScript
   counterpart. Higher-level methods that work on figures regardless of the current schema (e.g., `BaseFigure.for_each_trace`) are defined in `packages/python/plotly/plotly/basedatatypes.py`. Additional helper methods are defined there for the `Figure` object, such as
   `update_layout`, `add_trace`, etc.
 

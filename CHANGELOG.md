@@ -385,7 +385,7 @@ Items in this section may be considered backwards-incompatible changes for the p
 - Updated Plotly.js to version 1.54.6. See the [plotly.js CHANGELOG](https://github.com/plotly/plotly.js/blob/v1.54.6/CHANGELOG.md) for more information.
 - Added all cartesian-2d Plotly Express functions, plus `imshow`, to Pandas backend with `kind` option ([#2541](https://github.com/plotly/plotly.py/pull/2541))
 - `plotly.express.imshow` now uses data frame index and columns names and values to populate axis parameters by default ([#2539](https://github.com/plotly/plotly.py/pull/2539))
-- Javascript extensions are now build using Node 12, and have an updated `package-lock.json` with many fewer security warnings ([#2636](https://github.com/plotly/plotly.py/pull/2636))
+- JavaScript extensions are now build using Node 12, and have an updated `package-lock.json` with many fewer security warnings ([#2636](https://github.com/plotly/plotly.py/pull/2636))
 
 
 ## [4.8.2] - 2020-06-26
