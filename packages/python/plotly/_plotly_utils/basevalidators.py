@@ -259,7 +259,7 @@ class BaseValidator(object):
         Should start with:
             The '{plotly_name}' property is a...
 
-        For consistancy, string should have leading 4-space indent
+        For consistency, string should have leading 4-space indent
         """
         raise NotImplementedError()
 
