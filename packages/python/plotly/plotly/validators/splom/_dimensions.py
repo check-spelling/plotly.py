@@ -11,8 +11,9 @@ class DimensionsValidator(_plotly_utils.basevalidators.CompoundArrayValidator):
                 "data_docs",
                 """
             axis
-                :class:`plotly.graph_objects.splom.dimension.Ax
-                is` instance or dict with compatible properties
+                :class:`plotly.graph_objects.splom.dimension.
+                Axis` instance or dict with compatible
+                properties
             label
                 Sets the label corresponding to this splom
                 dimension.

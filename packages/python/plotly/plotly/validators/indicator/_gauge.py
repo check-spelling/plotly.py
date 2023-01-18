@@ -11,8 +11,9 @@ class GaugeValidator(_plotly_utils.basevalidators.CompoundValidator):
                 "data_docs",
                 """
             axis
-                :class:`plotly.graph_objects.indicator.gauge.Ax
-                is` instance or dict with compatible properties
+                :class:`plotly.graph_objects.indicator.gauge
+                Axis` instance or dict with compatible
+                properties
             bar
                 Set the appearance of the gauge's value
             bgcolor
