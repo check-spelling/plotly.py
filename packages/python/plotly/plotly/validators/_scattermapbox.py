@@ -18,8 +18,8 @@ class ScattermapboxValidator(_plotly_utils.basevalidators.CompoundValidator):
                 place the scattermapbox layers above every
                 other layer, set `below` to "''".
             cluster
-                :class:`plotly.graph_objects.scattermapbox.Clus
-                ter` instance or dict with compatible
+                :class:`plotly.graph_objects.scattermapbox.
+                Cluster` instance or dict with compatible
                 properties
             connectgaps
                 Determines whether or not gaps (i.e. {nan} or
