@@ -111,7 +111,7 @@ InputDeviceState(
         Combinations of buttons are represented as the decimal form of the
         bitmask of the values above.
 
-        For example, pressing both the primary (1) and auxilary (4) buttons
+        For example, pressing both the primary (1) and auxiliary (4) buttons
         will result in a code of 5
 
         Returns

@@ -443,7 +443,7 @@ export class FigureModel extends DOMWidgetModel {
        *
        *  Combinations of buttons are represented by the sum of the codes
        *  above. e.g. a value of 7 indicates buttons 1 (primary),
-       *  2 (secondary), and 4 (auxilary) were pressed during the event
+       *  2 (secondary), and 4 (auxiliary) were pressed during the event
        */
 
       /**
