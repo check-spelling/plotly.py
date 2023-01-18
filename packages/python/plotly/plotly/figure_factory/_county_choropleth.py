@@ -421,8 +421,8 @@ def create_choropleth(
 
     Returns figure for county choropleth. Uses data from package_data.
 
-    :param (list) fips: list of FIPS values which correspond to the con
-        catination of state and county ids. An example is '01001'.
+    :param (list) fips: list of FIPS values which correspond to the
+        concatenation of state and county ids. An example is '01001'.
     :param (list) values: list of numbers/strings which correspond to the
         fips list. These are the values that will determine how the counties
         are colored.
