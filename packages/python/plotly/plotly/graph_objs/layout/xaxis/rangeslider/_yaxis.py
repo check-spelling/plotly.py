@@ -82,8 +82,8 @@ class YAxis(_BaseLayoutHierarchyType):
         ----------
         arg
             dict of properties compatible with this constructor or
-            an instance of :class:`plotly.graph_objs.layout.xaxis.r
-            angeslider.YAxis`
+            an instance of
+            :class:`plotly.graph_objs.layout.xaxis.rangeslider.YAxis`
         range
             Sets the range of this axis for the rangeslider.
         rangemode

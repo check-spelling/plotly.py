@@ -1377,9 +1377,9 @@ class XAxis(_BaseLayoutHierarchyType):
                     be visible. If visible, perpendicular axes will
                     be set to `fixedrange`
                 yaxis
-                    :class:`plotly.graph_objects.layout.xaxis.range
-                    slider.YAxis` instance or dict with compatible
-                    properties
+                    :class:`plotly.graph_objects.layout.xaxis.
+                    rangeslider.YAxis` instance or dict with
+                    compatible properties
 
         Returns
         -------

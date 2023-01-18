@@ -246,8 +246,8 @@ class XaxisValidator(_plotly_utils.basevalidators.CompoundValidator):
                 Rangeselector` instance or dict with compatible
                 properties
             rangeslider
-                :class:`plotly.graph_objects.layout.xaxis.Range
-                slider` instance or dict with compatible
+                :class:`plotly.graph_objects.layout.xaxis.
+                Rangeslider` instance or dict with compatible
                 properties
             scaleanchor
                 If set to another axis id (e.g. `x2`, `y`), the
