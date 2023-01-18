@@ -136,8 +136,8 @@ class Marker(_BaseTraceHierarchyType):
         ----------
         arg
             dict of properties compatible with this constructor or
-            an instance of :class:`plotly.graph_objs.scatterpolar.u
-            nselected.Marker`
+            an instance of :class:`plotly.graph_objs.scatterpolar.
+            unselected.Marker`
         color
             Sets the marker color of unselected points, applied
             only when a selection exists.

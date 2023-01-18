@@ -11,12 +11,12 @@ class UnselectedValidator(_plotly_utils.basevalidators.CompoundValidator):
                 "data_docs",
                 """
             marker
-                :class:`plotly.graph_objects.scatterpolar.unsel
-                ected.Marker` instance or dict with compatible
-                properties
+                :class:`plotly.graph_objects.scatterpolar.
+                unselected.Marker` instance or dict with
+                compatible properties
             textfont
-                :class:`plotly.graph_objects.scatterpolar.unsel
-                ected.Textfont` instance or dict with
+                :class:`plotly.graph_objects.scatterpolar.
+                unselected.Textfont` instance or dict with
                 compatible properties
 """,
             ),

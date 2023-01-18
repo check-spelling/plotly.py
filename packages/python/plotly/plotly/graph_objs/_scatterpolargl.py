@@ -1483,12 +1483,12 @@ class Scatterpolargl(_BaseTraceType):
             Supported dict properties:
 
                 marker
-                    :class:`plotly.graph_objects.scatterpolargl.uns
-                    elected.Marker` instance or dict with
+                    :class:`plotly.graph_objects.scatterpolargl.
+                    unselected.Marker` instance or dict with
                     compatible properties
                 textfont
-                    :class:`plotly.graph_objects.scatterpolargl.uns
-                    elected.Textfont` instance or dict with
+                    :class:`plotly.graph_objects.scatterpolargl.
+                    unselected.Textfont` instance or dict with
                     compatible properties
 
         Returns

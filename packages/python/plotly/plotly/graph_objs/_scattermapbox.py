@@ -1397,9 +1397,9 @@ class Scattermapbox(_BaseTraceType):
             Supported dict properties:
 
                 marker
-                    :class:`plotly.graph_objects.scattermapbox.unse
-                    lected.Marker` instance or dict with compatible
-                    properties
+                    :class:`plotly.graph_objects.scattermapbox.
+                    unselected.Marker` instance or dict with
+                    compatible properties
 
         Returns
         -------

@@ -88,8 +88,8 @@ class Textfont(_BaseTraceHierarchyType):
         ----------
         arg
             dict of properties compatible with this constructor or
-            an instance of :class:`plotly.graph_objs.scattersmith.u
-            nselected.Textfont`
+            an instance of :class:`plotly.graph_objs.scattersmith.
+            unselected.Textfont`
         color
             Sets the text font color of unselected points, applied
             only when a selection exists.

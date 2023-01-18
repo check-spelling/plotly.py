@@ -1332,9 +1332,9 @@ class Choropleth(_BaseTraceType):
             Supported dict properties:
 
                 marker
-                    :class:`plotly.graph_objects.choropleth.unselec
-                    ted.Marker` instance or dict with compatible
-                    properties
+                    :class:`plotly.graph_objects.choropleth.
+                    unselected.Marker` instance or dict with
+                    compatible properties
 
         Returns
         -------

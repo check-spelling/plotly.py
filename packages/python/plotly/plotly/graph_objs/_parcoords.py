@@ -834,9 +834,9 @@ class Parcoords(_BaseTraceType):
             Supported dict properties:
 
                 line
-                    :class:`plotly.graph_objects.parcoords.unselect
-                    ed.Line` instance or dict with compatible
-                    properties
+                    :class:`plotly.graph_objects.parcoords.
+                    unselected.Line` instance or dict with
+                    compatible properties
 
         Returns
         -------

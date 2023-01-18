@@ -11,9 +11,9 @@ class UnselectedValidator(_plotly_utils.basevalidators.CompoundValidator):
                 "data_docs",
                 """
             marker
-                :class:`plotly.graph_objects.choropleth.unselec
-                ted.Marker` instance or dict with compatible
-                properties
+                :class:`plotly.graph_objects.choropleth.
+                unselected.Marker` instance or dict with
+                compatible properties
 """,
             ),
             **kwargs,

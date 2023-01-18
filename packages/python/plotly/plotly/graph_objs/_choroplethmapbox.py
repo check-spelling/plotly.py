@@ -1331,8 +1331,8 @@ class Choroplethmapbox(_BaseTraceType):
             Supported dict properties:
 
                 marker
-                    :class:`plotly.graph_objects.choroplethmapbox.u
-                    nselected.Marker` instance or dict with
+                    :class:`plotly.graph_objects.choroplethmapbox.
+                    unselected.Marker` instance or dict with
                     compatible properties
 
         Returns

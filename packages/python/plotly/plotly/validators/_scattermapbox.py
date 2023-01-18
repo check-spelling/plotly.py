@@ -275,8 +275,8 @@ class ScattermapboxValidator(_plotly_utils.basevalidators.CompoundValidator):
                 driven changes if you give each trace a `uid`
                 that stays with it as it moves.
             unselected
-                :class:`plotly.graph_objects.scattermapbox.Unse
-                lected` instance or dict with compatible
+                :class:`plotly.graph_objects.scattermapbox.
+                Unselected` instance or dict with compatible
                 properties
             visible
                 Determines whether or not this trace is

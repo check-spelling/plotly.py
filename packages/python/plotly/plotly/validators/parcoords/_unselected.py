@@ -11,9 +11,9 @@ class UnselectedValidator(_plotly_utils.basevalidators.CompoundValidator):
                 "data_docs",
                 """
             line
-                :class:`plotly.graph_objects.parcoords.unselect
-                ed.Line` instance or dict with compatible
-                properties
+                :class:`plotly.graph_objects.parcoords.
+                unselected.Line` instance or dict with
+                compatible properties
 """,
             ),
             **kwargs,
