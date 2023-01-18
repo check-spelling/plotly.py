@@ -16,7 +16,7 @@ class Marker(_BaseTraceHierarchyType):
     def blend(self):
         """
         Determines if colors are blended together for a translucency
-        effect in case `opacity` is specified as a value less then `1`.
+        effect in case `opacity` is specified as a value less than `1`.
         Setting `blend` to `true` reduces zoom/pan speed if used with
         large numbers of points.
 
@@ -200,7 +200,7 @@ class Marker(_BaseTraceHierarchyType):
         blend
             Determines if colors are blended together for a
             translucency effect in case `opacity` is specified as a
-            value less then `1`. Setting `blend` to `true` reduces
+            value less than `1`. Setting `blend` to `true` reduces
             zoom/pan speed if used with large numbers of points.
         border
             :class:`plotly.graph_objects.pointcloud.marker.Border`
@@ -250,7 +250,7 @@ class Marker(_BaseTraceHierarchyType):
         blend
             Determines if colors are blended together for a
             translucency effect in case `opacity` is specified as a
-            value less then `1`. Setting `blend` to `true` reduces
+            value less than `1`. Setting `blend` to `true` reduces
             zoom/pan speed if used with large numbers of points.
         border
             :class:`plotly.graph_objects.pointcloud.marker.Border`

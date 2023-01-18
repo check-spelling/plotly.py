@@ -400,7 +400,7 @@ class Pointcloud(_BaseTraceType):
                 blend
                     Determines if colors are blended together for a
                     translucency effect in case `opacity` is
-                    specified as a value less then `1`. Setting
+                    specified as a value less than `1`. Setting
                     `blend` to `true` reduces zoom/pan speed if
                     used with large numbers of points.
                 border
