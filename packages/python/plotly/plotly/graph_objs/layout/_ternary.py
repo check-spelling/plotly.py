@@ -234,8 +234,8 @@ class Ternary(_BaseLayoutHierarchyType):
                 tickwidth
                     Sets the tick width (in px).
                 title
-                    :class:`plotly.graph_objects.layout.ternary.aax
-                    is.Title` instance or dict with compatible
+                    :class:`plotly.graph_objects.layout.ternary.
+                    aaxis.Title` instance or dict with compatible
                     properties
                 titlefont
                     Deprecated: Please use

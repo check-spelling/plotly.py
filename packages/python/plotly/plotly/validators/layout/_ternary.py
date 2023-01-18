@@ -11,8 +11,9 @@ class TernaryValidator(_plotly_utils.basevalidators.CompoundValidator):
                 "data_docs",
                 """
             aaxis
-                :class:`plotly.graph_objects.layout.ternary.Aax
-                is` instance or dict with compatible properties
+                :class:`plotly.graph_objects.layout.ternary.
+                Aaxis` instance or dict with compatible
+                properties
             baxis
                 :class:`plotly.graph_objects.layout.ternary.Bax
                 is` instance or dict with compatible properties
