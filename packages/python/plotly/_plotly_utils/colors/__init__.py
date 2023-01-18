@@ -415,7 +415,7 @@ def convert_colors_to_same_type(
     colortype="rgb",
     scale=None,
     return_default_colors=False,
-    num_of_defualt_colors=2,
+    num_of_default_colors=2,
 ):
     """
     Converts color(s) to the specified color type
@@ -438,7 +438,7 @@ def convert_colors_to_same_type(
     colors_list = []
 
     if colors is None and return_default_colors is True:
-        colors_list = DEFAULT_PLOTLY_COLORS[0:num_of_defualt_colors]
+        colors_list = DEFAULT_PLOTLY_COLORS[0:num_of_default_colors]
 
     if isinstance(colors, str):
         if colors in PLOTLY_SCALES:
