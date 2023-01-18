@@ -1746,8 +1746,8 @@ class RadialAxis(_BaseLayoutHierarchyType):
             09:15:23.456* with tickformat "%H~%M~%S.%2f" would
             display "09~15~23.46"
         tickformatstops
-            A tuple of :class:`plotly.graph_objects.layout.polar.ra
-            dialaxis.Tickformatstop` instances or dicts with
+            A tuple of :class:`plotly.graph_objects.layout.polar.
+            radialaxis.Tickformatstop` instances or dicts with
             compatible properties
         tickformatstopdefaults
             When used in a template (as layout.template.layout.pola
@@ -2086,8 +2086,8 @@ class RadialAxis(_BaseLayoutHierarchyType):
             09:15:23.456* with tickformat "%H~%M~%S.%2f" would
             display "09~15~23.46"
         tickformatstops
-            A tuple of :class:`plotly.graph_objects.layout.polar.ra
-            dialaxis.Tickformatstop` instances or dicts with
+            A tuple of :class:`plotly.graph_objects.layout.polar.
+            radialaxis.Tickformatstop` instances or dicts with
             compatible properties
         tickformatstopdefaults
             When used in a template (as layout.template.layout.pola

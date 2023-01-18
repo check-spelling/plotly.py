@@ -104,8 +104,8 @@ class Title(_BaseLayoutHierarchyType):
         ----------
         arg
             dict of properties compatible with this constructor or
-            an instance of :class:`plotly.graph_objs.layout.polar.r
-            adialaxis.Title`
+            an instance of :class:`plotly.graph_objs.layout.polar.
+            radialaxis.Title`
         font
             Sets this axis' title font. Note that the title's font
             used to be customized by the now deprecated `titlefont`

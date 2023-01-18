@@ -803,9 +803,9 @@ class Polar(_BaseLayoutHierarchyType):
                 tickwidth
                     Sets the tick width (in px).
                 title
-                    :class:`plotly.graph_objects.layout.polar.radia
-                    laxis.Title` instance or dict with compatible
-                    properties
+                    :class:`plotly.graph_objects.layout.polar.
+                    radialaxis.Title` instance or dict with
+                    compatible properties
                 titlefont
                     Deprecated: Please use
                     layout.polar.radialaxis.title.font instead.
