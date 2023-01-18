@@ -13,8 +13,8 @@ class StepsValidator(_plotly_utils.basevalidators.CompoundArrayValidator):
             color
                 Sets the background color of the arc.
             line
-                :class:`plotly.graph_objects.indicator.gauge.st
-                ep.Line` instance or dict with compatible
+                :class:`plotly.graph_objects.indicator.gauge.
+                step.Line` instance or dict with compatible
                 properties
             name
                 When used in a template, named items are
