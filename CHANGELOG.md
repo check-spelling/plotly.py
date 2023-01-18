@@ -1034,7 +1034,7 @@ This is a major release that includes many new features, and a few breaking chan
  ([#1290](https://github.com/plotly/plotly.py/issues/1290))
  - Fixed error when using unicode characters in string properties on Python 2
  ([#1289](https://github.com/plotly/plotly.py/issues/1289))
- - Removed invalid calls to non-existent `validate` and `strip_style` `Figure`
+ - Removed invalid calls to nonexistent `validate` and `strip_style` `Figure`
  methods in matplotlylib conversion logic
  ([#1128](https://github.com/plotly/plotly.py/issues/1128))
 
