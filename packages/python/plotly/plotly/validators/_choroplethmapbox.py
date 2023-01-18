@@ -140,8 +140,8 @@ class ChoroplethmapboxValidator(_plotly_utils.basevalidators.CompoundValidator):
                 part of the same legend group hide/show at the
                 same time when toggling legend items.
             legendgrouptitle
-                :class:`plotly.graph_objects.choroplethmapbox.L
-                egendgrouptitle` instance or dict with
+                :class:`plotly.graph_objects.choroplethmapbox.
+                Legendgrouptitle` instance or dict with
                 compatible properties
             legendrank
                 Sets the legend rank for this trace. Items and

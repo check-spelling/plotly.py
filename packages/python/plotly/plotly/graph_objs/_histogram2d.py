@@ -2118,8 +2118,9 @@ class Histogram2d(_BaseTraceType):
             the same legend group hide/show at the same time when
             toggling legend items.
         legendgrouptitle
-            :class:`plotly.graph_objects.histogram2d.Legendgrouptit
-            le` instance or dict with compatible properties
+            :class:`plotly.graph_objects.histogram2d.
+            Legendgrouptitle` instance or dict with compatible
+            properties
         legendrank
             Sets the legend rank for this trace. Items and groups
             with smaller ranks are presented on top/left side while
@@ -2548,8 +2549,9 @@ class Histogram2d(_BaseTraceType):
             the same legend group hide/show at the same time when
             toggling legend items.
         legendgrouptitle
-            :class:`plotly.graph_objects.histogram2d.Legendgrouptit
-            le` instance or dict with compatible properties
+            :class:`plotly.graph_objects.histogram2d.
+            Legendgrouptitle` instance or dict with compatible
+            properties
         legendrank
             Sets the legend rank for this trace. Items and groups
             with smaller ranks are presented on top/left side while

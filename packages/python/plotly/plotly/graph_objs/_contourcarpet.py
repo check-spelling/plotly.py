@@ -1748,8 +1748,9 @@ class Contourcarpet(_BaseTraceType):
             the same legend group hide/show at the same time when
             toggling legend items.
         legendgrouptitle
-            :class:`plotly.graph_objects.contourcarpet.Legendgroupt
-            itle` instance or dict with compatible properties
+            :class:`plotly.graph_objects.contourcarpet.
+            Legendgrouptitle` instance or dict with compatible
+            properties
         legendrank
             Sets the legend rank for this trace. Items and groups
             with smaller ranks are presented on top/left side while
@@ -2046,8 +2047,9 @@ class Contourcarpet(_BaseTraceType):
             the same legend group hide/show at the same time when
             toggling legend items.
         legendgrouptitle
-            :class:`plotly.graph_objects.contourcarpet.Legendgroupt
-            itle` instance or dict with compatible properties
+            :class:`plotly.graph_objects.contourcarpet.
+            Legendgrouptitle` instance or dict with compatible
+            properties
         legendrank
             Sets the legend rank for this trace. Items and groups
             with smaller ranks are presented on top/left side while

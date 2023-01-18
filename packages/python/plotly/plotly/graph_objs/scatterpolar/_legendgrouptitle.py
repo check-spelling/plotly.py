@@ -96,8 +96,8 @@ class Legendgrouptitle(_BaseTraceHierarchyType):
         ----------
         arg
             dict of properties compatible with this constructor or
-            an instance of :class:`plotly.graph_objs.scatterpolar.L
-            egendgrouptitle`
+            an instance of :class:`plotly.graph_objs.scatterpolar.
+            Legendgrouptitle`
         font
             Sets this legend group's title font.
         text

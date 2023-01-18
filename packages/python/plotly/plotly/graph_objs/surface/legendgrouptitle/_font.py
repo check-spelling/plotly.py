@@ -151,8 +151,8 @@ class Font(_BaseTraceHierarchyType):
         ----------
         arg
             dict of properties compatible with this constructor or
-            an instance of :class:`plotly.graph_objs.surface.legend
-            grouptitle.Font`
+            an instance of :class:`plotly.graph_objs.surface.
+            legendgrouptitle.Font`
         color
 
         family

@@ -104,9 +104,9 @@ class Scatter3DValidator(_plotly_utils.basevalidators.CompoundValidator):
                 part of the same legend group hide/show at the
                 same time when toggling legend items.
             legendgrouptitle
-                :class:`plotly.graph_objects.scatter3d.Legendgr
-                ouptitle` instance or dict with compatible
-                properties
+                :class:`plotly.graph_objects.scatter3d.
+                Legendgrouptitle` instance or dict with
+                compatible properties
             legendrank
                 Sets the legend rank for this trace. Items and
                 groups with smaller ranks are presented on

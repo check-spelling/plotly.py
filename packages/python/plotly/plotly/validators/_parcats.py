@@ -90,9 +90,9 @@ class ParcatsValidator(_plotly_utils.basevalidators.CompoundValidator):
             labelfont
                 Sets the font for the `dimension` labels.
             legendgrouptitle
-                :class:`plotly.graph_objects.parcats.Legendgrou
-                ptitle` instance or dict with compatible
-                properties
+                :class:`plotly.graph_objects.parcats.
+                Legendgrouptitle` instance or dict with
+                compatible properties
             legendwidth
                 Sets the width (in px or fraction) of the
                 legend for this trace.

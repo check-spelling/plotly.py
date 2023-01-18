@@ -2864,8 +2864,9 @@ class FigureWidget(BaseFigureWidget):
             the same legend group hide/show at the same time when
             toggling legend items.
         legendgrouptitle
-            :class:`plotly.graph_objects.candlestick.Legendgrouptit
-            le` instance or dict with compatible properties
+            :class:`plotly.graph_objects.candlestick.
+            Legendgrouptitle` instance or dict with compatible
+            properties
         legendrank
             Sets the legend rank for this trace. Items and groups
             with smaller ranks are presented on top/left side while
@@ -3920,8 +3921,9 @@ class FigureWidget(BaseFigureWidget):
             the same legend group hide/show at the same time when
             toggling legend items.
         legendgrouptitle
-            :class:`plotly.graph_objects.choroplethmapbox.Legendgro
-            uptitle` instance or dict with compatible properties
+            :class:`plotly.graph_objects.choroplethmapbox.
+            Legendgrouptitle` instance or dict with compatible
+            properties
         legendrank
             Sets the legend rank for this trace. Items and groups
             with smaller ranks are presented on top/left side while
@@ -5329,8 +5331,9 @@ class FigureWidget(BaseFigureWidget):
             the same legend group hide/show at the same time when
             toggling legend items.
         legendgrouptitle
-            :class:`plotly.graph_objects.contourcarpet.Legendgroupt
-            itle` instance or dict with compatible properties
+            :class:`plotly.graph_objects.contourcarpet.
+            Legendgrouptitle` instance or dict with compatible
+            properties
         legendrank
             Sets the legend rank for this trace. Items and groups
             with smaller ranks are presented on top/left side while
@@ -5709,8 +5712,9 @@ class FigureWidget(BaseFigureWidget):
             the same legend group hide/show at the same time when
             toggling legend items.
         legendgrouptitle
-            :class:`plotly.graph_objects.densitymapbox.Legendgroupt
-            itle` instance or dict with compatible properties
+            :class:`plotly.graph_objects.densitymapbox.
+            Legendgrouptitle` instance or dict with compatible
+            properties
         legendrank
             Sets the legend rank for this trace. Items and groups
             with smaller ranks are presented on top/left side while
@@ -8399,8 +8403,9 @@ class FigureWidget(BaseFigureWidget):
             the same legend group hide/show at the same time when
             toggling legend items.
         legendgrouptitle
-            :class:`plotly.graph_objects.histogram2d.Legendgrouptit
-            le` instance or dict with compatible properties
+            :class:`plotly.graph_objects.histogram2d.
+            Legendgrouptitle` instance or dict with compatible
+            properties
         legendrank
             Sets the legend rank for this trace. Items and groups
             with smaller ranks are presented on top/left side while
@@ -8929,8 +8934,9 @@ class FigureWidget(BaseFigureWidget):
             the same legend group hide/show at the same time when
             toggling legend items.
         legendgrouptitle
-            :class:`plotly.graph_objects.histogram2dcontour.Legendg
-            rouptitle` instance or dict with compatible properties
+            :class:`plotly.graph_objects.histogram2dcontour.
+            Legendgrouptitle` instance or dict with compatible
+            properties
         legendrank
             Sets the legend rank for this trace. Items and groups
             with smaller ranks are presented on top/left side while
@@ -14000,8 +14006,9 @@ class FigureWidget(BaseFigureWidget):
             the same legend group hide/show at the same time when
             toggling legend items.
         legendgrouptitle
-            :class:`plotly.graph_objects.scattercarpet.Legendgroupt
-            itle` instance or dict with compatible properties
+            :class:`plotly.graph_objects.scattercarpet.
+            Legendgrouptitle` instance or dict with compatible
+            properties
         legendrank
             Sets the legend rank for this trace. Items and groups
             with smaller ranks are presented on top/left side while
@@ -15279,8 +15286,9 @@ class FigureWidget(BaseFigureWidget):
             the same legend group hide/show at the same time when
             toggling legend items.
         legendgrouptitle
-            :class:`plotly.graph_objects.scattermapbox.Legendgroupt
-            itle` instance or dict with compatible properties
+            :class:`plotly.graph_objects.scattermapbox.
+            Legendgrouptitle` instance or dict with compatible
+            properties
         legendrank
             Sets the legend rank for this trace. Items and groups
             with smaller ranks are presented on top/left side while
@@ -15664,8 +15672,9 @@ class FigureWidget(BaseFigureWidget):
             the same legend group hide/show at the same time when
             toggling legend items.
         legendgrouptitle
-            :class:`plotly.graph_objects.scatterpolar.Legendgroupti
-            tle` instance or dict with compatible properties
+            :class:`plotly.graph_objects.scatterpolar.
+            Legendgrouptitle` instance or dict with compatible
+            properties
         legendrank
             Sets the legend rank for this trace. Items and groups
             with smaller ranks are presented on top/left side while
@@ -16071,8 +16080,9 @@ class FigureWidget(BaseFigureWidget):
             the same legend group hide/show at the same time when
             toggling legend items.
         legendgrouptitle
-            :class:`plotly.graph_objects.scatterpolargl.Legendgroup
-            title` instance or dict with compatible properties
+            :class:`plotly.graph_objects.scatterpolargl.
+            Legendgrouptitle` instance or dict with compatible
+            properties
         legendrank
             Sets the legend rank for this trace. Items and groups
             with smaller ranks are presented on top/left side while
@@ -16475,8 +16485,9 @@ class FigureWidget(BaseFigureWidget):
             the same legend group hide/show at the same time when
             toggling legend items.
         legendgrouptitle
-            :class:`plotly.graph_objects.scattersmith.Legendgroupti
-            tle` instance or dict with compatible properties
+            :class:`plotly.graph_objects.scattersmith.
+            Legendgrouptitle` instance or dict with compatible
+            properties
         legendrank
             Sets the legend rank for this trace. Items and groups
             with smaller ranks are presented on top/left side while
@@ -16881,8 +16892,9 @@ class FigureWidget(BaseFigureWidget):
             the same legend group hide/show at the same time when
             toggling legend items.
         legendgrouptitle
-            :class:`plotly.graph_objects.scatterternary.Legendgroup
-            title` instance or dict with compatible properties
+            :class:`plotly.graph_objects.scatterternary.
+            Legendgrouptitle` instance or dict with compatible
+            properties
         legendrank
             Sets the legend rank for this trace. Items and groups
             with smaller ranks are presented on top/left side while

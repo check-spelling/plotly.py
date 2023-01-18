@@ -111,9 +111,9 @@ class TreemapValidator(_plotly_utils.basevalidators.CompoundValidator):
                 Sets the source reference on Chart Studio Cloud
                 for `labels`.
             legendgrouptitle
-                :class:`plotly.graph_objects.treemap.Legendgrou
-                ptitle` instance or dict with compatible
-                properties
+                :class:`plotly.graph_objects.treemap.
+                Legendgrouptitle` instance or dict with
+                compatible properties
             legendrank
                 Sets the legend rank for this trace. Items and
                 groups with smaller ranks are presented on
