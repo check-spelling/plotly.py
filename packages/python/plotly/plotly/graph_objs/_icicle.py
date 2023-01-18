@@ -1016,7 +1016,7 @@ class Icicle(_BaseTraceType):
                     Determines which shape is used for edges
                     between `barpath` labels.
                 side
-                    Determines on which side of the the treemap the
+                    Determines on which side of the treemap the
                     `pathbar` should be presented.
                 textfont
                     Sets the font used inside `pathbar`.

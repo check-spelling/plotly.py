@@ -137,7 +137,7 @@ class ScatterternaryValidator(_plotly_utils.basevalidators.CompoundValidator):
                 (a,b,c) point. If a single string, the same
                 string appears over all the data points. If an
                 array of strings, the items are mapped in order
-                to the the data points in (a,b,c). To be seen,
+                to the data points in (a,b,c). To be seen,
                 trace `hoverinfo` must contain a "text" flag.
             hovertextsrc
                 Sets the source reference on Chart Studio Cloud

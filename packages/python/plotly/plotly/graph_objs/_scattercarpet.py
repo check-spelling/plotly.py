@@ -522,7 +522,7 @@ class Scattercarpet(_BaseTraceType):
         Sets hover text elements associated with each (a,b) point. If a
         single string, the same string appears over all the data
         points. If an array of strings, the items are mapped in order
-        to the the data points in (a,b). To be seen, trace `hoverinfo`
+        to the data points in (a,b). To be seen, trace `hoverinfo`
         must contain a "text" flag.
 
         The 'hovertext' property is a string and must be specified as:
@@ -1163,7 +1163,7 @@ class Scattercarpet(_BaseTraceType):
         Sets text elements associated with each (a,b) point. If a
         single string, the same string appears over all the data
         points. If an array of strings, the items are mapped in order
-        to the the data points in (a,b). If trace `hoverinfo` contains
+        to the data points in (a,b). If trace `hoverinfo` contains
         a "text" flag and "hovertext" is not set, these elements will
         be seen in the hover labels.
 
@@ -1622,7 +1622,7 @@ class Scattercarpet(_BaseTraceType):
             Sets hover text elements associated with each (a,b)
             point. If a single string, the same string appears over
             all the data points. If an array of strings, the items
-            are mapped in order to the the data points in (a,b). To
+            are mapped in order to the data points in (a,b). To
             be seen, trace `hoverinfo` must contain a "text" flag.
         hovertextsrc
             Sets the source reference on Chart Studio Cloud for
@@ -1707,7 +1707,7 @@ class Scattercarpet(_BaseTraceType):
             Sets text elements associated with each (a,b) point. If
             a single string, the same string appears over all the
             data points. If an array of strings, the items are
-            mapped in order to the the data points in (a,b). If
+            mapped in order to the data points in (a,b). If
             trace `hoverinfo` contains a "text" flag and
             "hovertext" is not set, these elements will be seen in
             the hover labels.
@@ -1939,7 +1939,7 @@ class Scattercarpet(_BaseTraceType):
             Sets hover text elements associated with each (a,b)
             point. If a single string, the same string appears over
             all the data points. If an array of strings, the items
-            are mapped in order to the the data points in (a,b). To
+            are mapped in order to the data points in (a,b). To
             be seen, trace `hoverinfo` must contain a "text" flag.
         hovertextsrc
             Sets the source reference on Chart Studio Cloud for
@@ -2024,7 +2024,7 @@ class Scattercarpet(_BaseTraceType):
             Sets text elements associated with each (a,b) point. If
             a single string, the same string appears over all the
             data points. If an array of strings, the items are
-            mapped in order to the the data points in (a,b). If
+            mapped in order to the data points in (a,b). If
             trace `hoverinfo` contains a "text" flag and
             "hovertext" is not set, these elements will be seen in
             the hover labels.
