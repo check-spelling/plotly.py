@@ -578,7 +578,7 @@ This version includes several performance improvements ([#2368](https://github.c
  [plotly.js CHANGELOG](https://github.com/plotly/plotly.js/blob/master/CHANGELOG.md#1512----2019-11-25)
  for more information
  - The tutorials of the [plotly.py documentation](https://plot.ly/python/) are
-   now in the main [plotly.py Github repository](https://github.com/plotly/plotly.py). Contributions in order to improve or extend the documentation are very welcome!
+   now in the main [plotly.py GitHub repository](https://github.com/plotly/plotly.py). Contributions in order to improve or extend the documentation are very welcome!
  - `plotly.express` generated plots no longer have a default height of 600 pixels, instead they inherit the default height of regular figures [#1990](https://github.com/plotly/plotly.py/pull/1990). To restore the old behavior, set `px.defaults.height=600` once per session, or set the `height` keyword argument to any `px.function()` to 600.
 
 ### Fixed

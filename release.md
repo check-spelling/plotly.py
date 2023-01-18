@@ -48,10 +48,10 @@ Manually update the versions to `X.Y.Z` in the files specified below.
 
  ### Triggering (and Retriggering) the build
 
- - Commit and add this specific tag which `versioneer` will pick up, and push to Github so that CI will build the release artifacts. This is an atomic push so that CI will read the tag on the commit:
+ - Commit and add this specific tag which `versioneer` will pick up, and push to GitHub so that CI will build the release artifacts. This is an atomic push so that CI will read the tag on the commit:
    + `git tag vX.Y.Z`
    + `git push --atomic origin release-X.Y.Z vX.Y.Z`
- - Create a Github pull request from `release-X.Y.Z` to `master` and wait for CI to be green
+ - Create a GitHub pull request from `release-X.Y.Z` to `master` and wait for CI to be green
  - *If something goes wrong below*, you'll need to trigger the build process again after a fix. You'll need to commit your changes in the release branch, move the tag and atomically force push:
    + `git commit ....`
    + `git tag -f vX.Y.Z`
@@ -137,7 +137,7 @@ to features in the release.
 
 * Post an announcement to the Plotly Python forum, with links to the README installation instructions and to the CHANGELOG.
 * Update the previous announcement to point to this one
-* Update the Github Release entry and CHANGELOG entry to have the nice title and a link to the announcement
+* Update the GitHub Release entry and CHANGELOG entry to have the nice title and a link to the announcement
 * Follow up on issues resolved in this release or forum posts with better answers as of this release
 
 ## Release *Candidate* process - `plotly` package and extensions

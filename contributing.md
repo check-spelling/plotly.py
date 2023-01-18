@@ -105,7 +105,7 @@ Thank you! Instructions on how to contribute to the documentation are given [her
 Below we explain the technical aspects of contributing. It is not strictly necessary to follow all points (for example, you will not write tests when writing documentation, most of the time), but we want to make sure that you know how to deal with most cases.
 
 Note that if you are modifying a single documentation page, you can do it
-directly on Github by clicking on the "Edit this page on GitHub" link, without
+directly on GitHub by clicking on the "Edit this page on GitHub" link, without
 cloning the repository.
 
 ## Setup a Development Environment

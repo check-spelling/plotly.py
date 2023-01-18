@@ -501,7 +501,7 @@ setup(
     maintainer="Nicolas Kruchten",
     maintainer_email="nicolas@plot.ly",
     url="https://plotly.com/python/",
-    project_urls={"Github": "https://github.com/plotly/plotly.py"},
+    project_urls={"GitHub": "https://github.com/plotly/plotly.py"},
     description="An open-source, interactive data visualization library for Python",
     long_description=readme(),
     long_description_content_type="text/markdown",

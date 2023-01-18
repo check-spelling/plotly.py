@@ -18,10 +18,10 @@ Each tutorial is a markdown (`.md`) file, which can be opened in the Jupyter
 notebook or in Jupyterlab by installing [jupytext](https://jupytext.readthedocs.io/en/latest/install.html).
 
 For small edits (e.g., correcting typos) to an existing tutorial, you can simply click on the "edit this
-page on Github" link at the top right of the page (e.g. clicking on this link
+page on GitHub" link at the top right of the page (e.g. clicking on this link
 on https://plot.ly/python/bar-charts/ will take you to
 https://github.com/plotly/plotly.py/edit/doc-prod/doc/python/bar-charts.md,
-where you can edit the page on Github).
+where you can edit the page on GitHub).
 
 For more important edits where you need to run the notebook to check the output,
 clone the repository and setup an environment as described in the [main
